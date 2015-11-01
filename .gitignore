@@ -1,3 +1,6 @@
 # Git 版本追蹤忽略規則
 ## 忽略 GitBook 建構目錄
 _book/
+
+## 忽略 GitBook 外掛程式
+node_modules/

@@ -1,7 +1,7 @@
 {
-	"gitbook" : "2.x.x", 
-	"title" : "〈GitBook 名稱(GitBook name)〉", 
+	"title" : "國立台灣海洋大學資訊工程學系《普通物理》課程開放來源碼專案", 
+	"plugins" : ["mathjax"], 
 	"variables": {
-		"title" : "〈GitBook 名稱(GitBook name)〉"
+		"title" : "國立台灣海洋大學資訊工程學系《普通物理》課程開放來源碼專案"
 	}
 }

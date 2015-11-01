@@ -1,5 +1,0 @@
-{% extends "Page design/Inner page.template.markdown" %}
-{% block page_content %}
-# 〈第一章的標題〉
-〈第一章的內容〉
-{% endblock %}
