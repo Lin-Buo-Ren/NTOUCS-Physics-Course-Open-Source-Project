@@ -1,0 +1,6 @@
+{
+	"title" : "<My GitBook name>", 
+	"variables": {
+		"title" : "&lt;My GitBook name&gt;"
+	}
+}
