@@ -2,7 +2,7 @@
 {% block page_content %}
 # 作業一 - 第一章與第三章習題<br />HW#1-CH1 & CH3
 ## 第 01 章，第 001 問題<br />Chapter 01, Problem 001
-地球是一個半徑約為 $6.37 × 10^6 公尺$ 的球體。它的 **(a)** 球周長、**(b)** 表面積以及 **(c)** 它的體積為何？  
+地球是一個半徑約為 $$6.37 × 10^6 公尺$$ 的球體。它的 **(a)** 球周長、**(b)** 表面積以及 **(c)** 它的體積為何？  
 Earth is approximately a sphere of radius $6.37 × 10^6$ m. What are **(a)** its circumference, **(b)** its surface area, and **(c)** its volume?
 
 ### (a) 球周長
