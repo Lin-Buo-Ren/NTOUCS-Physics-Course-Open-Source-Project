@@ -76,7 +76,7 @@ On a spending spree in Malaysia, you buy an ox with a weight of 28.5 piculs in t
 ### 答案<br />Answer
 $$ 1723.224 公斤 $$
 
-## Chapter 01, Problem 003
+## 第 01 章，第 003 問題<br />Chapter 01, Problem 003
 微米單位(μm)常常被稱做「micron」。  **(a)**多少 micron 可以長達 6.3公里？ **(b)** 多少公分等於 6.3 微米？**(c)** 多少 micron 等於 6.3 碼(yard(yd))？  
 The micrometer (1 μm) is often called the micron. **(a)** How many microns make up 6.3 km? **(b)** How many centimeters equal 6.3 μm? **(c)** How many microns are in 6.3 yd?
 
@@ -88,17 +88,17 @@ $$ 6.3 \times 10^9 micron $$
 
 ### (b)
 #### 解決方案 - 單位轉換
-$$ 6.3 \cancel{微米} \times \frac{\cancel{1公尺}}{10^{6}\cancel{微米}} \times \frac{10^2 公分}{\cancel{1公尺}} = 6.3 \times 10^{-4} 公分 $$
+$$ 6.3 \cancel{微米} \times \frac{1\cancel{公尺}}{10^{6}\cancel{微米}} \times \frac{10^2 公分}{1\cancel{公尺}} = 6.3 \times 10^{-4} 公分 $$
 
 #### 答案
 $$ 6.3 \times 10^{-4} 公分 $$
 
 ### (c)
 #### 解決方案 - 單位轉換
-$$  $$
+$$ 6.3 \cancel{碼} \times \frac{1\cancel{公尺}}{0.9144 \cancel{碼}} \times \frac{10^6 微米(micron)}{1\cancel{公尺}} \approx 6889763.77953 微米(micron) $$
 
 #### 答案
-$$  $$
+$$ 6889763.77953 微米(micron) $$
 
 ## 參考資料<br />Reference data
 * [小学数学计算题中的计数单位必须加括号吗_百度知道](http://zhidao.baidu.com/question/437142105.html)
