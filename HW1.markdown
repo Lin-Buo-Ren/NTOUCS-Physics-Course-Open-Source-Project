@@ -95,10 +95,10 @@ $$ 6.3 \times 10^{-4} 公分 $$
 
 ### (c)
 #### 解決方案 - 單位轉換
-$$ 6.3 \cancel{碼} \times \frac{1\cancel{公尺}}{0.9144 \cancel{碼}} \times \frac{10^6 微米(micron)}{1\cancel{公尺}} \approx 6889763.77953 微米(micron) $$
+$$ 6.3 \cancel{碼} \times \frac{0.9144\cancel{公尺}}{1 \cancel{碼}} \times \frac{10^6 微米(micron)}{1\cancel{公尺}} \approx  微米(micron) $$
 
 #### 答案
-$$ 6889763.77953 微米(micron) $$
+$$ 5760720 微米(micron) $$
 
 ## 參考資料<br />Reference data
 * [小学数学计算题中的计数单位必须加括号吗_百度知道](http://zhidao.baidu.com/question/437142105.html)
