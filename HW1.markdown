@@ -36,7 +36,7 @@ $$
 約 $$1.0827 \times 10^{12}$$ 平方公里
 
 ## 第 01 章，第 024 問題<br />Chapter 01, Problem 024
-在 California 的海灘良好的細沙粒為有 $$50 \mu m$$ 平均半徑且成份為密度為 $$2.6 × 10^3 kg/m^3$$ 的二氧化矽的類球體。多少質量的細沙粒的總表面積（所有單一球體的表面積和）會相等於邊長 1.2 公尺的立方體的表面積？  
+California 洲海灘之良好的細沙粒為有 $$50 \mu m$$ 平均半徑且成份為密度為 $$2.6 × 10^3 kg/m^3$$ 的二氧化矽的類球體。多少質量的細沙粒的總表面積（所有單一球體的表面積和）會相等於邊長 1.2 公尺的立方體的表面積？  
 Grains of fine California beach sand are approximately spheres with an average radius of $$50 \mu m$$ and are made of silicon dioxide, which has a density of $$2.6 × 10^3 kg/m^3$$. What mass of sand grains would have a total surface area (the total area of all the individual spheres) equal to the surface area of a cube 1.2 m on an edge?
 
 ### 解決方案<br />Solution
