@@ -1,6 +1,8 @@
 ## 電場與電位關係
-* $$ V = \frac{kQ}{r} E = \frac{kQ}{r^2} $$
-* $$ （將電位微分）\frac{dv}{dr} = -\frac{kQ}{r^2} = -E $$
-* 結論：$$ E = -\frac{dv}{dr} $$
-* 例題：設 $$ V = 1800x^2 （x：位置） 求 E $$
+1. $$ V = \frac{kQ}{r} E = \frac{kQ}{r^2} $$
+1. $$ （將電位微分）\frac{dv}{dr} = -\frac{kQ}{r^2} = -E $$
+1. 結論：$$ E = -\frac{dv}{dr} $$
+    1. 例題：設 $$ V = 1800x^2 （x：位置） 求 E $$
     * $$ -\frac{dv}{dx} = E  = -3600x $$
+
+## 
