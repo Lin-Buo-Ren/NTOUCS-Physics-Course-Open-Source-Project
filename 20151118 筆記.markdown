@@ -17,4 +17,6 @@
 
 
 ### 特性
+(pic)
 
+* $$ \Phi = vector E dot vector A $$
