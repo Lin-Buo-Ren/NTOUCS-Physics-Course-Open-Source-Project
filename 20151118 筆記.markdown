@@ -20,7 +20,7 @@
 (pic)
 
 * 依賴高斯平面
-* $$ \Phi = vector E \cdot vector A $$
+* $$ \Phi = \vec{E} \cdot \vec{A} $$
 * 面積向量都會跟電場垂直
 * 總電場的大小為六個面的總和
 * 高斯定律說 
