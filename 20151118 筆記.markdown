@@ -55,4 +55,7 @@
 * （圖片）
 * $$ V_1 = \frac{q}{C_1}, V_2 = \frac{q}{C_2}, V_3 = \frac{q}{C_3} $$
 * $$ V = V_1 + V_2 + V_3 = q(\frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}) $$
-* $$ C_eq = \frac{q}{V} = \frac{1}{\frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}}$$
+* $$ C_{eq} = \frac{q}{V} = \frac{1}{\frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}}$$
+* $$ \frac{1}{C_{eq}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} $$
+
+##### 範例（圖片）
