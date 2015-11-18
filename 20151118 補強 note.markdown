@@ -16,8 +16,9 @@
 1. 非完整圓, 半徑為 $$ R $$ ; 總電量為 $$ Q $$
 2. $$ dv = \frac{kdq}{R} （單一點電荷之電位） $$
 3. 求 $$ P $$ 點總電位
-4. $$ V = \int dv = \int \frac{kdg}{R} <- dq = \frac{Q \dot ds}{2 \pi R \times \frac{\theta}{360}} = \frac{k}{R} \int \frac{Q ds}{2\pi R \frac{\theta}{360}}$$
 5. $$ \frac{dq}{ds} = \frac{Q}{2\pi R \times \frac{\theta}{360}} = \rho $$
+4. $$ V = \int dv = \int \frac{kdg}{R} <- dq = \frac{Q \dot ds}{2 \pi R \times \frac{\theta}{360}} = \frac{k}{R} \int \frac{Q ds}{2\pi R \frac{\theta}{360}} = \frac{k}{R}\cdot \frac{Q}{2\pi R\cdot \frac{\theta}{360}} \int ds <- 線周長 = \frac{k}{R} \cdot \frac{Q}{\frac{2\pi R \frac{\theta}{360}}} \cdot 2\pi R \cdot \frac{Q}{360} = \frac{kQ}{R} $$
+
 (missing)
 
 ## 例題：半徑為 $$ R $$, 且帶均勻電荷的細圓環, 其總電量為 $$ Q $$, 則 $$ P $$ 點的電位為何？
