@@ -1,5 +1,3 @@
-{% extends "Page design/Inner page.template.markdown" %}
-{% block page_content %}
 # 作業一 - 第一章與第三章習題<br />HW#1-CH1 & CH3
 
 ## 第 01 章，第 001 問題<br />Chapter 01, Problem 001
