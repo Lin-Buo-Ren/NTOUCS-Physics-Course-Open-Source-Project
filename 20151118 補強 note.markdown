@@ -1,3 +1,4 @@
+# 20151118 補強筆記
 ## 電場與電位關係
 1. $$ V = \frac{kQ}{r} E = \frac{kQ}{r^2} $$
 1. $$ （將電位微分）\frac{dv}{dr} = -\frac{kQ}{r^2} = -E $$
@@ -5,4 +6,7 @@
     1. 例題：設 $$ V = 1800x^2 （x：位置） 求 E $$
     * $$ -\frac{dv}{dx} = E  = -3600x $$
 
-## 
+## 連續電荷分佈產生的電位
+1. $$ V = \frac{kq}{r}（單一電荷） $$
+2. $$ V = \int dv = k \int \frac{dq}{r}（距離相等的情況下 r 相同） = \frac{kQ}{r}（Q：總電荷：q_1 + q_2 + q_3 + \cdot q_n; r 皆相同） - 1.  $$
+3. $$ V = k \sum^n_{i = 1} \frac{q_i}{r_i} = k \frac{q_1}{r_1} + k\frac{q_2}{r_2} + k\frac{q_3}{r_3} + \cdot k \frac{q_n}{r_n} - 2. $$
