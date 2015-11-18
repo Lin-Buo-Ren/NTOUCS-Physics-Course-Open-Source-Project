@@ -19,3 +19,5 @@
 4. $$ V = \int dv = \int \frac{kdg}{R} <- dq = \frac{Q \dot ds}{2 \pi R \times \frac{\theta}{360}} = \frac{k}{R} \int \frac{Q ds}{2\pi R \frac{\theta}{360}}$$
 5. $$ \frac{dq}{ds} = \frac{Q}{2\pi R \times \frac{\theta}{360}} = \rho $$
 (missing)
+
+## 例題：半徑為 $$ R $$, 且帶均勻電荷的細圓環, 其總電量為 $$ Q $$, 則 $$ P $$ 點的電位為何？
