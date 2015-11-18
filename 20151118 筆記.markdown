@@ -30,4 +30,5 @@
     * $$ E = \frac{Q}{A \epsilon_0} = \lo \frac{1}{\epsilon_0}（面電荷密度） $$
 
 * 兩平行電板電位差？
-    * $$ V_f - V_i = \Delta V = - $$
+    * $$ V_f - V_i = \Delta V = -\int vector E \cdot d vector s = E \int_A^B d vector s = E d$$
+    
