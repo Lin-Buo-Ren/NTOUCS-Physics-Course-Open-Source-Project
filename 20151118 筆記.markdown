@@ -22,4 +22,11 @@
 * 依賴高斯平面
 * $$ \Phi = vector E \cdot vector A $$
 * 面積向量都會跟電場垂直
-* 總電廠的大小為六個面的總和
+* 總電場的大小為六個面的總和
+* 高斯定律說 
+    * $$ \epsilon_0 \Phi = Q $$
+    * $$ \epsilon_0 E A = Q $$
+    * $$ E  = \frac{Q}{\epsilon_0 A} $$
+    * $$ E = \frac{Q}{A \epsilon_0} = \lo \frac{1}{\epsilon_0}（面電荷密度） $$
+
+* 兩平行電板
