@@ -17,7 +17,7 @@
 2. $$ dv = \frac{kdq}{R} （單一點電荷之電位） $$
 3. 求 $$ P $$ 點總電位
 5. $$ \frac{dq}{ds} = \frac{Q}{2\pi R \times \frac{\theta}{360}} = \rho $$
-4. $$ V = \int dv = \int \frac{kdg}{R} <- dq = \frac{Q \dot ds}{2 \pi R \times \frac{\theta}{360}} = \frac{k}{R} \int \frac{Q ds}{2\pi R \frac{\theta}{360}} = \frac{k}{R}\cdot \frac{Q}{2\pi R\cdot \frac{\theta}{360}} \int ds <- 線周長 = \frac{k}{R} \cdot \frac{Q}{\frac{2\pi R \frac{\theta}{360}}} \cdot 2\pi R \cdot \frac{Q}{360} = \frac{kQ}{R} $$
+4. $$ V = \int dv = \int \frac{kdg}{R} <- dq = \frac{Q \dot ds}{2 \pi R \times \frac{\theta}{360}} = \frac{k}{R} \int \frac{Q ds}{2\pi R \frac{\theta}{360}} = \frac{k}{R}\cdot \frac{Q}{2\pi R\cdot \frac{\theta}{360}} \int ds$$ $$ <- 線周長 = \frac{k}{R} \cdot \frac{Q}{\frac{2\pi R \frac{\theta}{360}}} \cdot 2\pi R \cdot \frac{Q}{360} = \frac{kQ}{R} $$
 
 (missing)
 
