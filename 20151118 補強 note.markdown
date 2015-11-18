@@ -10,3 +10,12 @@
 1. $$ V = \frac{kq}{r}（單一電荷） $$
 2. $$ V = \int dv = k \int \frac{dq}{r}（距離相等的情況下 r 相同） = \frac{kQ}{r}（Q：總電荷：q_1 + q_2 + q_3 + \cdot q_n; r 皆相同） - 1.  $$
 3. $$ V = k \sum^n_{i = 1} \frac{q_i}{r_i} = k \frac{q_1}{r_1} + k\frac{q_2}{r_2} + k\frac{q_3}{r_3} + \cdot k \frac{q_n}{r_n} - 2. $$
+
+### 證明 1.
+（圖片）
+1. 非完整圓, 半徑為 $$ R $$ ; 總電量為 $$ Q $$
+2. $$ dv = \frac{kdq}{R} （單一點電荷之電位） $$
+3. 求 $$ P $$ 點總電位
+4. $$ V = \int dv = \int \frac{kdg}{R} <- dq = \frac{Q \dot ds}{2 \pi R \times \frac{\theta}{360}} = \frac{k}{R} \int \frac{Q ds}{2\pi R \frac{\theta}{360}}$$
+5. $$ \frac{dq}{ds} = \frac{Q}{2\pi R \times \frac{\theta}{360}} = \rho $$
+(photoed)
