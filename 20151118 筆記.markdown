@@ -39,3 +39,7 @@
 
 ### 電容器原理
 （圖片）
+
+### 電容器的並聯(parrallel conbination), 串聯(series combination)
+* 並聯的電位差皆相同
+* 電容器中所儲存的總電荷 $$ q $$ 是個別電容器中之電荷總數
