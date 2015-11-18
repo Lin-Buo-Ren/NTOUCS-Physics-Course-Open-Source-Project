@@ -106,5 +106,3 @@ $$ 5760720 微米(micron) $$
 * [manifest 的中文翻譯 | 英漢字典](http://cdict.net/?q=manifest)
 * [Mass - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Mass)
 * [Yard - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Yard)
-
-{% endblock %}
