@@ -31,4 +31,6 @@
 
 * 兩平行電板電位差？
     * $$ V_f - V_i = \Delta V = -\int vector E \cdot d vector s = E \int_A^B d vector s = E d$$
-    
+
+* $$ C = \frac{q}{\Delta V} = \frac{q}{Ed} = \frac{q}{\frac{q}{A\epsilon_0}d} = \frac{\epsilon_0 A}{d} $$
+    * 平行板不一定要是長方形
