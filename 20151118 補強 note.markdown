@@ -18,4 +18,4 @@
 3. 求 $$ P $$ 點總電位
 4. $$ V = \int dv = \int \frac{kdg}{R} <- dq = \frac{Q \dot ds}{2 \pi R \times \frac{\theta}{360}} = \frac{k}{R} \int \frac{Q ds}{2\pi R \frac{\theta}{360}}$$
 5. $$ \frac{dq}{ds} = \frac{Q}{2\pi R \times \frac{\theta}{360}} = \rho $$
-(photoed)
+(missing)
