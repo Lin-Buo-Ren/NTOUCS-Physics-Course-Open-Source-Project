@@ -19,4 +19,4 @@
 ### 特性
 (pic)
 
-* $$ \Phi = vector E dot vector A $$
+* $$ \Phi = vector E \cdot vector A $$
