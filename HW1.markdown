@@ -16,6 +16,8 @@ $$
 約 40023.89041 公里
 
 #### 參考資料<br />Reference Data
+* [有效數字 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97)
+* 
 
 ### (b) 表面積
 #### 解決方案<br />Solution
