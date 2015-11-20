@@ -8,7 +8,7 @@ Earth is approximately a sphere of radius $6.37 × 10^6$ m. What are **(a)** its
 #### 解決方案<br />Solution
 代入球周長公式：  
 $$
-球周長 = 2 \times 半徑 \times \pi = 2 \times (6.37 \times 10^6公尺) \times \pi
+球周長 = 2 \times 球半徑 \times \pi = 2 \times (6.37 \times 10^6公尺) \times \pi
  = 2 \times (6.37 \times 10^3公里) \times \pi \approx 40023.89041 公里
 $$
 
