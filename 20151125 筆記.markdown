@@ -47,7 +47,7 @@ $$ U = \frac{q^2}{2C} = \frac{1}{2}CV^2 or CV ? $$
     * L：長度
     * e：載子的單位電量
     * $$ V_d：飄移速度(drift speed) $$
-    * $$ 電流密度 J = \frac{I}{A}= \frac{nA_eV_a}(missed)$$
+    * $$ 電流密度 J = \frac{I}{A}= \frac{nA_eV_a}{}(missed)$$
     * 銅導線(missed)
     * $$ V = \frac{M}{\rho} = \frac{63.5g_mol}{8.95 g/cm^3} = 7.09 cm^3/mole $$
     * $$ \frac{6.02 \times 10^23 個}{7.09 \times ^{cm^3}/_{mol} } \frac{10^6 cm^3}{1 m^3}$$
