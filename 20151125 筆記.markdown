@@ -51,6 +51,6 @@ $$ U = \frac{q^2}{2C} = \frac{1}{2}CV^2 or CV ? $$
     * 銅導線(missed)
     * $$ V = \frac{M}{\rho} = \frac{63.5g_mol}{8.95 g/cm^3} = 7.09 cm^3/mole $$
     * $$ \frac{6.02 \times 10^23 個}{7.09 \times cm^3 / mol } \frac{10^6 cm^3}{1 m^3}$$
-* 例題
+* 例題 - 銅導線切面面積 = $$ 3.31 \times 10^{-6} m^2$$ , 內有一電流 = $$ 10.0A $$, 求其飄移速率？假設每一個銅原子提供一個電子, 銅密度(density) = $$ 8.95 ^g/cm^3 $$
     * $$I ＝ nAeV_d$$
     * $$ 10.0A = 8.49 \times 10^28 個/m^3 \times $$
