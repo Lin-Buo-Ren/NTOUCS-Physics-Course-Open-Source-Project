@@ -9,5 +9,9 @@
 ## 電容器串聯
 * 並聯：parallel combination
 * 串聯：series combination
-* 從定義而言
 * （圖片）
+* $$ \frac{q_1}{C_1} + \frac{q_2}{C_2} = \frac{q_{eq}}{C_{eq}}$$
+* $$ \frac{q}{C_1} + \frac{q}{C_2} = \frac{q}{C_{eq}}$$
+* $$ \frac{1}{C_{eq}} = \frac{1}{C_1} + \frac{1}{C_2} $$
+
+## 平行板電容器
