@@ -64,4 +64,20 @@ $$ U = \frac{q^2}{2C} = \frac{1}{2}CV^2 or CV ? $$
 * $$ I = \frac{V}{R}$$
 
 ### SI unit of resistance
-$$ \frac{Voltage}{Ampere} 等義於 Ohm(\Omega) $$
+* $$ \frac{Voltage}{Ampere} 等義於 Ohm(\Omega) $$
+* R 是跟物質的1.長度2.截面積3.物質的電阻率(resistivity)($$\rho$$)有關
+    * 電阻率的單位：$$\Omega \cdot m$$
+    * 從實驗來得知, $$ R = \rho \frac{L（長度）}{A（截面積(cross section area）} $$
+        * 例：Cu：$$ \rho = 1.7 \times 10^{-8} \Omega \cdot m $$, find $$ R $$ of a L = 1m A: $$ 1\mu m^2  = 10^{-6}m^2$$ Cu wire.
+            1. $$ R = \rho \frac{L}{A} = 1.7 \times 10^{-8}\Omega \cdot m \frac{1m}{10^{-6}m^2} $$
+            2. $$ R = 1.7 \times 10^{-2} \Omega = (missed)$$
+            3. 電導率
+            4. $$ R $$ 和 $$ \rho $$ 都會隨著溫度而變, 由實驗得知 $$ \frac{\Delta \rho}{\rho_0} = \lambda \cdot \Delta T$$
+            5. $$ \Delta \rho = \rho - \rho_0 $$
+            6. $$ \frac{\rho - \rho_0}{\rho_0} = \alpha \Delta T $$
+            7. $$ \rho - \rho_0 = \rho_0 \alpha(T = T_0) -> \rho = \rho_0[1 + \alpha(T- T_0)](missing)$$
+            8. $$ \rho = 1.7 \times 10^{-8} [1 + 3.9 \times 10^{-3} \times {100)] = 1.7 \times 10^{-8}(1+0.39) = 2.36 \times 10^{-8} \Omega \cdot m $$(up to 39%)
+
+### 特殊導體 - 超導體
+* （圖片）
+* 
