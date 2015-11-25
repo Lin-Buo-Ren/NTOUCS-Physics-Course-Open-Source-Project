@@ -21,3 +21,36 @@
 * 不同的物質當作介電質會改變電容器電容能力（$$ \epsilon_0 常數$$）
 * （圖片）
 * $$ V_B - V_A = -\int_A^B \vec{E} \cdot d \vec{s} = -\int(-Es) （電場跟位移方向相反） = Es $$
+
+## 提醒
+電池  | battery
+--- | ---
+高電位 | 正極(+)
+低電位 | 負極(-)
+
+## Potential Energy
+$$ U = \frac{q^2}{2C} = \frac{1}{2}CV^2 or CV ? $$
+
+## 第 26 章 - 電流與電阻<br>Current and Resistance
+### 電流
+* $$ I = \frac{Q}{t} \frac{coulomb}{sec} = 安培(Ampere) $$
+* （圖片）
+* $$ 2 \times 10^{-7} ^N/_m $$
+#### 安培事實上的定義
+一安培：真空相距 1 公尺的兩條無限長平行導線固定電流產生一力 = $$ 2 \times 10^{-7} ^N/_m $$
+
+
+* $$ I = \frac{Q}{t} =  $$
+* $$ Q = n'ALe $$
+    * n：每單位體積的載子數
+    * A：截面積
+    * L：長度
+    * e：載子的單位電量
+    * $$ V_d：飄移速度(drift speed) $$
+    * $$ 電流密度 J = \frac{I}{A}= \frac{nA_eV_a}(missed)$$
+    * 銅導線(missed)
+    * $$ V = \frac{M}{\rho} = \frac{63.5g_mol}{8.95 g/cm^3} = 7.09 cm^3/mole $$
+    * $$ \frac{6.02 \times 10^23 個}{7.09 \times cm^3 / mol } \frac{10^6 cm^3}{1 m^3}$$
+* 例題
+    * $$I ＝ nAeV_d$$
+    * $$ 10.0A = 8.49 \times 10^28 個/m^3 \times $$
