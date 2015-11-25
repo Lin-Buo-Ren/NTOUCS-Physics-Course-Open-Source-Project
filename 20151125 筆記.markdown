@@ -57,3 +57,11 @@ $$ U = \frac{q^2}{2C} = \frac{1}{2}CV^2 or CV ? $$
 
 ## 歐姆定律<br />Ohm's Law
 對很多導體 $$ I 正比於 V$$ 稱為 Omic materials
+
+### 定義電阻
+* $$ R = \frac{V}{I} $$
+* $$ V = IR $$
+* $$ I = \frac{V}{R}$$
+
+### SI unit of resistance
+$$ \frac{Voltage}{Ampere} 等義於 Ohm(\Omega) $$
