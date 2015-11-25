@@ -27,3 +27,6 @@
 
 ### 電池內電阻：輸出電流 $$ I $$, 電池端電壓：V = \epsilon - Ir, 輸出功率：I_\epsilon - I^2r = P; r: 電池內之內電阻, \epsilon: 電動勢(electromotive force)
 * （圖片）
+* \epsilon = V_r + V_R = I(r + R)<- V_r = I_r, V_R  IR
+* I = \frac{\epsilon}{r + R}
+* r: internal battery resistance, R: load resistance
