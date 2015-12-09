@@ -16,4 +16,6 @@
     * 節點原則<br >Junction rule
     * 迴圈原則<br />Loop rule?
 * （圖片）
-* 
+    * 這四種 case 都可用?
+    * $$ \Delta V = -IR $$
+    * (missed)
