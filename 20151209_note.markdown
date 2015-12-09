@@ -52,3 +52,6 @@
 * $$ \frac{\epsilon}{R} - \frac{q}{RC} - i = 0 $$
 * $$ \frac{\epsilon}{R} - \frac{q}{RC} - \frac{dq}{dt} = 0 $$
 * <- $$ i = \frac{dq}{dt} $$
+* (missed!?))
+* $$\frac{dq}{dt} = \frac{\epsilon C - q}{RC} $$
+* 自然對數
