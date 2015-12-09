@@ -55,3 +55,4 @@
 * (missed!?))
 * $$\frac{dq}{dt} = \frac{\epsilon C - q}{RC} $$
 * 自然對數
+* $$ \int \frac{1}{x} dx = lnx + c$$
