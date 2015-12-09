@@ -63,3 +63,4 @@
 * $$ \frac{dq}{dt} = \frac{\epsilon C  q}{RC}$$
 * $$\int_0^Q \frac{1}{\epsilon C - q} dq = \frac{1}{RC} \int_0^t dt$$
 * $$ -ln(\epsilon C - q)(missed) $$
+* 
