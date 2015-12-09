@@ -1,2 +1,19 @@
-# 20151209 note
+# 20151209 筆記
+## 電功率<br>Power
+* 電阻：
+    * 電串聯：$$ R_等 = R_1 + R_2 $$
+    * 並聯：$$ \frac{1}{R_等} = \frac{1}{R_1} + \frac{1}{R_2} $$
+* 室內電源為交流電並聯模式
+    * 保險絲(fuse)
+    * 無熔絲開關/斷路閘(circuit breaker)
+* 漏電
+    * 沒有地線的話, 熱線要流向中性線的電流可能會傳導過使用者體內造成觸電
+    * （圖片 saved）
 
+## 多迴圈電路<br />multi-loop circuit
+### Kirchoff's 電壓定律
+* 之前有提到 Kirchoff's 基本原則
+    * 節點原則<br >Junction rule
+    * 迴圈原則<br />Loop rule?
+* （圖片）
+* 
