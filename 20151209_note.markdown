@@ -15,7 +15,12 @@
 * 之前有提到 Kirchoff's 基本原則
     * 節點原則<br >Junction rule
     * 迴圈原則<br />Loop rule?
-* （圖片）
+* （圖片saved）
     * 這四種 case 都可用?
     * $$ \Delta V = -IR $$
-    * (missed)
+    * (saved)
+* （圖片saved）
+    * 三個以上導線的節點才有討論價值
+    * 大膽假設節點三端的電流為 $$I_1, I_2, I_3$$
+    * 有三個迴圈：左右全
+    * $$-I_11\cdot \Omega$$
