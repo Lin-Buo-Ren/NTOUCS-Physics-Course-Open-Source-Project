@@ -11,7 +11,7 @@
     * （圖片 saved）
 
 ## 多迴圈電路<br />multi-loop circuit
-### Kirchoff's 電壓定律
+### Kirchoff's 電壓 & 電流定律
 * 之前有提到 Kirchoff's 基本原則
     * 節點原則<br >Junction rule
     * 迴圈原則<br />Loop rule?
@@ -35,7 +35,7 @@
 ### 例題
 * 圖片saved
 
-#### 解決方案 - Kirchoff's 電壓定律
+#### 解決方案 - Kirchoff's 電壓 & 電流定律
 1. 大膽假設電流
 2. 指定一個節點來觀察??
 3. $$ I_1 = I_2 + I_3 $$
