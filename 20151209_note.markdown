@@ -56,4 +56,7 @@
 * $$\frac{dq}{dt} = \frac{\epsilon C - q}{RC} $$
 * 自然對數
 * $$ \int \frac{1}{x} dx = lnx + c$$
-* 
+* $$ log x + log y = log(x\cdot y) $$
+* $$ log x - log y = log(\frac{x}{y}) $$
+* ln : 自然對數以 e 常數為底數的對數函數
+* e = 
