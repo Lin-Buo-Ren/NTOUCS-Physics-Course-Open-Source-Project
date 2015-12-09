@@ -19,9 +19,14 @@
     * 這四種 case 都可用?
     * $$ \Delta V = -IR $$
     * (saved)
+### 例題
 * （圖片saved）
     * 三個以上導線的節點才有討論價值
     * 大膽假設節點三端的電流為 $$I_1, I_2, I_3$$
     * 有三個迴圈：左右全
     * $$-I_11\cdot \Omega + 5V-I_12\Omega+10V = 0$$
     * $$ -I_1 \cdot \Omega + I_3 \cdot 2 \Omega - I_1 \cdot 2 \Omega + 10V = 0 $$
+    * $$ I_3 = 2.5 A $$
+    * $$ I_1 = 5A $$
+    * $$ I_2 = 7.5A $$
+    * 必考題
