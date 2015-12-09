@@ -59,4 +59,7 @@
 * $$ log x + log y = log(x\cdot y) $$
 * $$ log x - log y = log(\frac{x}{y}) $$
 * ln : 自然對數以 e 常數為底數的對數函數
-* e = 
+* e = \lim_{n \to (missed)
+* $$ \frac{dq}{dt} = \frac{\epsilon C  q}{RC}$$
+* $$\int_0^Q \frac{1}{\epsilon C - q} dq = \frac{1}{RC} \int_0^t dt$$
+* $$ -ln(\epsilon C - q)(missed)
