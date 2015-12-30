@@ -46,6 +46,7 @@ $$
 (blackboard1056)
 
 ### 環形線圈<br />Toroid
+(picture)
 
 
 ### 
