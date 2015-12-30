@@ -6,3 +6,6 @@ $$ r = a \csc \theta $$
 $$ x = -a \cot \theta $$  
 (missed)  $$ a \csc ^2 \theta d \theta $$  
 $$ d \overrightarrow{s} cross \hat{r} = \hat{i} dx cross \hat{r} = dx $$
+(missed)
+
+$$ \int dB = \frac{\mu_{0}I}{4 \pi a}(\cos \theta_1 -  $$
