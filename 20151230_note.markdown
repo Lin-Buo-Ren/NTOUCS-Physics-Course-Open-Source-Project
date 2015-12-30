@@ -57,3 +57,12 @@ B \cdot 2 \pi r = \frac{\mu_0(missed)}{}
 $$
 
 ### 螺絲管<br />Solenoid
+(picture)
+
+* 可以用來產生內部磁場
+* （夠長的話）外面產生的磁場互相抵消
+#### 應用
+* 電感
+
+
+* 利用安培定律發現內部的 $$ \overrightarrow{B}$$
