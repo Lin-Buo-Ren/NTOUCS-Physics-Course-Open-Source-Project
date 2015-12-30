@@ -25,6 +25,8 @@ $$ \int dB = \frac{\mu_{0}I}{4 \pi a}(\cos \theta_1 -  $$(missed)
 $$ \overrightarrow{F_{在I_2}} = I_2(\overrightarrow{l} cross product \overrightarrow{B}) (missed) \\
 \overrightarrow{F_{在I_2}} = I_2 l \frac{mu_0}{}(missed)$$
 
+### 例題：兩平行導線的電流相距1公尺, 問每米所受的力為何？電流為 1A
+$$ \frac{F}{l} = {\mu_0}{2 \pi} \frac{I_1 I_2}{a} = \frac{4\pi \times 10^{-7}}{2 \pi} ^{T \cdot m}/_{A} \frac{1A \cdot 1A}{1m} = 2 \times 10^{-7} T \cdot d? $$
 
-
-
+## 安培定律
+$$ \int $$
