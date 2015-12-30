@@ -13,3 +13,4 @@ $$ \int dB = \frac{\mu_{0}I}{4 \pi a}(\cos \theta_1 -  $$(missed)
 ### 長直導線的磁場線呈現以導線為中心的同心圓
 (picture)
 
+
