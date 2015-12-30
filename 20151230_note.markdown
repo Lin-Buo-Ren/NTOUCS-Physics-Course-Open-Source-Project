@@ -68,4 +68,8 @@ $$
 
 * 利用安培定律發現內部的 $$ \overrightarrow{B}$$
 
-（切面圖）
+（切面圖1115）
+$$
+(missed)\\
+B_{solenoid} = \mu_0 n I
+$$
