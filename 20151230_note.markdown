@@ -52,7 +52,8 @@ $$
 
 $$
 \oint \overrightarrow{B} \cdot d \overrightarrow{s} = B \cdot 2 \pi r = \mu_0 I_{net} \\
-
+I_{net} = N \cdot I\\
+B \cdot 2 \pi r = \frac{\mu_0(missed)}{}
 $$
 
-### 
+### 螺絲管<br />Solenoid
