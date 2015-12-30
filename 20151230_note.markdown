@@ -2,4 +2,7 @@
 ## 尋找 $$ vector B $$ 在長直島線上, $$ I $$ 電流
 (picture backuped)
 
-$$ r = a csc \theta $$
+$$ r = a \csc \theta $$  
+$$ x = -a \cot \theta $$  
+(missed)  
+$$ d \overrightarrow{s} cross \hat{r} = \hat{i} dx cross \hat{r} = dx $$
