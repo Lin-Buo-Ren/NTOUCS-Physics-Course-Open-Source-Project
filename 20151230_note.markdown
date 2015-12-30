@@ -2,8 +2,9 @@
 ## 尋找 $$ vector B $$ 在長直導線上, $$ I $$ 電流
 (picture backuped)
 
-$$ r = a \csc \theta $$  
-$$ x = -a \cot \theta $$  
+$$ \begin{cases} r = a \csc \theta\\
+ x = -a \cot \theta \\
+ \end{cases}$$  
 =>  $$ dx = a \csc ^2 \theta d \theta $$  
 $$ d \overrightarrow{s} cross \hat{r} = \hat{i} dx cross \hat{r} = dx $$
 (missed)
@@ -16,4 +17,4 @@ $$ \int dB = \frac{\mu_{0}I}{4 \pi a}(\cos \theta_1 -  $$(missed)
 ### 電流迴路所引起的磁場大小為何？
 (picture)
 
-
+## 兩平行電流之間的力
