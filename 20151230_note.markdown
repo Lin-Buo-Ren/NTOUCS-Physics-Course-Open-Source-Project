@@ -18,3 +18,4 @@ $$ \int dB = \frac{\mu_{0}I}{4 \pi a}(\cos \theta_1 -  $$(missed)
 (picture)
 
 ## 兩平行電流之間的力
+(picture)
