@@ -11,6 +11,9 @@ $$ d \overrightarrow{s} cross \hat{r} = \hat{i} dx cross \hat{r} = dx $$
 $$ \int dB = \frac{\mu_{0}I}{4 \pi a}(\cos \theta_1 -  $$(missed)
 
 ### 長直導線的磁場線呈現以導線為中心的同心圓
+(picture(missed))
+
+### 電流迴路所引起的磁場大小為何？
 (picture)
 
 
