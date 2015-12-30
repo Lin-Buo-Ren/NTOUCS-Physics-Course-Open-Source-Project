@@ -18,5 +18,7 @@ $$ \int dB = \frac{\mu_{0}I}{4 \pi a}(\cos \theta_1 -  $$(missed)
 (picture)
 
 ## 兩平行電流之間的力
-(picture1025)
+(picture)
+
+* 兩個平行同方向電流長直導線互相吸引, 反之互相排斥
 
