@@ -38,7 +38,7 @@ $$ \overrightarrow{B} 和 \overrightarrow{S} 都平行\\
 \overrightarrow{B} 的大小都一樣\\  
 \oint \overrightarrow{B} \cdot \overrightarrow{s} = \mu_0 I_{net} $$
 
-(picture)  
+(picture1052)  
 $$ \\
-\oint \overrightarrow{B} \cdot d \overrightarrow{s} = 0 \\
+\oint \overrightarrow{B} \cdot d \overrightarrow{s} \\
 $$
