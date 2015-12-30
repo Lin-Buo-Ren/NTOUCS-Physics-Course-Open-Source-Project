@@ -97,10 +97,37 @@ $$
 * $$ \Phi_m = \int \overrightarrow{B} \cdot d \overrightarrow{A} $$  
 磁通量定律與電通量一致
 
-### 例題：有一長方形導線圈在 $$ \overrightarrow{B} $$ 在時間 $$ t $$, 旋轉線圈, 將面積向量從平行（磁通量最大）轉到垂直（磁通量最小）, 問
+### 例題：有一長方形導線圈在 $$ \overrightarrow{B} $$ 在時間 $$ t $$, 旋轉線圈, 將面積向量從平行（磁通量最大）轉到垂直（磁通量最小）, 問在 90 度旋轉間所產生的平均電流為何？
+
 
 (pic)
 
 $$
 B = 10Tesla, A = 0.2m^2, R = 5 \Omega, t = 0.1sec
+$$
+
+$$
+I = \frac{\epsilon}{R}\\
+\epsilon = -\frac{(missed}{}
+$$
+
+$$
+\Delta\Phi_m = BA \cos 90 度 - BA \cos 0 度 = 0 - BA = -BA\\
+\epsilon = \frac{BA}{t} = \frac{10T \cdot 0.2 m^2}{0.1sec}
+$$
+
+如何改變通量 $$ \Phi_m = \overrightarrow{B} \cdot \overrightarrow{A} = BA \cos \theta：
+(missed)$$
+
+## Maxwell's Equation（不會考）
+$$
+\oint \overrightarrow{E} \cdot d \overrightarrow{A} = \frac{Q}{\epsilon_0} (Gauss Law)\\
+\oint \overrightarrow{B} \cdot d\overrightarrow{A} = 0 (Gauss Law for magnetism)
+$$
+
+----------
+$$
+
+\oint \overrightarrow{E} \cdot d \overrightarrow{s} = - \frac{d\Phi_m}{dt} (Faraday's Law)\\
+\oint \overrightarrow{B} \cdot d\overrightarrow{s} = \mu_0I + (missing) (Ampere's Law)
 $$
