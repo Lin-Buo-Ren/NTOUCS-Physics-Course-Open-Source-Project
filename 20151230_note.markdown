@@ -48,5 +48,11 @@ $$
 ### 環形線圈<br />Toroid
 (picture)
 
+利用安培定律找內部的 $$ B $$
+
+$$
+\oint \overrightarrow{B} \cdot d \overrightarrow{s} = B \cdot 2 \pi r = \mu_0 I_{net} \\
+
+$$
 
 ### 
