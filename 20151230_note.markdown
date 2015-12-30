@@ -1,2 +1,5 @@
 # 20151230 note
 ## 尋找 $$ vector B $$ 在長直島線上, $$ I $$ 電流
+(picture backuped)
+
+$$ r = a csc \theta $$
