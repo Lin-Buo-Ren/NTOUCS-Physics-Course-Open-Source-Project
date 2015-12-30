@@ -4,7 +4,7 @@
 
 $$ r = a \csc \theta $$  
 $$ x = -a \cot \theta $$  
-=>  $$ a \csc ^2 \theta d \theta $$  
+=>  $$ dx = a \csc ^2 \theta d \theta $$  
 $$ d \overrightarrow{s} cross \hat{r} = \hat{i} dx cross \hat{r} = dx $$
 (missed)
 
