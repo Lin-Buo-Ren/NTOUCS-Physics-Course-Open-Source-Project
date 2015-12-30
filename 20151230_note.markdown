@@ -89,5 +89,18 @@ $$
 (磁鐵對線圈圖)
 
 * 當磁鐵移動時線圈產生電流, 這叫做感應電動勢
-* $$ \epsilon = - \frac{d ?}{dt} \\
+* $$ \epsilon = - \frac{d \Phi_m}{dt} （Len's 定律） \\
 \frac{T \cdot m^2}{s} = Volt $$
+    * $$\Phi_m $$：經過電路的磁通量
+    * $$ \epsilon  = - \frac{d \Phi_m}{dt} $$
+    * 這就是法拉第電磁感應定律(Faraday Law of electromagnetic ?)
+* $$ \Phi_m = \int \overrightarrow{B} \cdot d \overrightarrow{A} $$  
+磁通量定律與電通量一致
+
+### 例題：有一長方形導線圈在 $$ \overrightarrow{B} $$ 在時間 $$ t $$, 旋轉線圈, 將面積向量從平行（磁通量最大）轉到垂直（磁通量最小）
+
+(pic)
+
+$$
+B = 10Tesla, A = 0.2m^2, R = 5 \Omega, t = 0.1sec
+$$
