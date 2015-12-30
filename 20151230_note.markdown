@@ -97,7 +97,7 @@ $$
 * $$ \Phi_m = \int \overrightarrow{B} \cdot d \overrightarrow{A} $$  
 磁通量定律與電通量一致
 
-### 例題：有一長方形導線圈在 $$ \overrightarrow{B} $$ 在時間 $$ t $$, 旋轉線圈, 將面積向量從平行（磁通量最大）轉到垂直（磁通量最小）
+### 例題：有一長方形導線圈在 $$ \overrightarrow{B} $$ 在時間 $$ t $$, 旋轉線圈, 將面積向量從平行（磁通量最大）轉到垂直（磁通量最小）, 問
 
 (pic)
 
