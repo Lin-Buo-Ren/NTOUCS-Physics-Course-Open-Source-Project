@@ -42,3 +42,10 @@ $$ \overrightarrow{B} 和 \overrightarrow{S} 都平行\\
 $$ \\
 \oint \overrightarrow{B} \cdot d \overrightarrow{s} \\
 $$
+
+(blackboard1056)
+
+### 環形線圈<br />Toroid
+
+
+### 
