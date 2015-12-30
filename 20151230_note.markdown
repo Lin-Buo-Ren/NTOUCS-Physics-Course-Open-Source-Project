@@ -32,4 +32,13 @@ $$ \frac{F}{l} = {\mu_0}{2 \pi} \frac{I_1 I_2}{a} = \frac{4\pi \times 10^{-7}}{2
 $$ \oint \overrightarrow{B} \cdot d \overrightarrow{s} $$ 對封閉迴路對一個圓形的路徑, 以電流 $$ I $$ 為中心
 (picture)
 
+$$ \oint \overrightarrow{B} \cdot d\overrightarrow{s} = \frac{\mu_0 I}{2\pi r} 2\pi r = \mu_0 I $$
 
+$$ \overrightarrow{B} 和 \overrightarrow{S} 都平行\\
+\overrightarrow{B} 的大小都一樣\\  
+\oint \overrightarrow{B} \cdot \overrightarrow{s} = \mu_0 I_{net} $$
+
+(picture)  
+$$ \\
+\oint \overrightarrow{B} \cdot d \overrightarrow{s} = 0 \\
+$$
