@@ -9,11 +9,11 @@
 | :---: | :---: |
 | 長度 |$$m(meter)$$|
 | 質量 |$$kg(kilogram)$$ |
-| 時間 | \( second（秒） \) |
-| 電流 | \( A(ampere)（安培） \) |
-| 溫度 | \( k(kelvin) \) |
-| amount of substance | \( mol \) |
-| luminous intensity | \( cd \) |
+| 時間 |$$ second（秒）$$ |
+| 電流 | $$ A(ampere)（安培）$$ |
+| 溫度 |$$ k(kelvin) $$ |
+| amount of substance | $$ mol$$ |
+| luminous intensity |$$cd$$ |
 
 * 由法國公家機構 Syste`me International(S.I.) 定義（稱為公制）
 
