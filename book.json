@@ -1,7 +1,9 @@
 {
 	"title" : "國立台灣海洋大學資訊工程學系《普通物理》課程開放來源碼專案", 
+	"language" : "zh", 
 	"plugins" : ["mathjax"], 
 	"variables": {
 		"title" : "國立台灣海洋大學資訊工程學系《普通物理》課程開放來源碼專案"
-	}
+	}, 
+	"gitbook" : "3.x.x"
 }
