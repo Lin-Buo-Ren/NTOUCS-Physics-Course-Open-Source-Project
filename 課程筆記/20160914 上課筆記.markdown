@@ -8,7 +8,7 @@
 | 類別 | 單位 |
 | :---: | :---: |
 | 長度 |$$m(meter)$$|
-| 質量 | \( kg(kilogram) \) |
+| 質量 |$$kg(kilogram)$$ |
 | 時間 | \( second（秒） \) |
 | 電流 | \( A(ampere)（安培） \) |
 | 溫度 | \( k(kelvin) \) |
