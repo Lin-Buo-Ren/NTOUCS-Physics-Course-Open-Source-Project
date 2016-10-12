@@ -14,6 +14,12 @@ $$
 電子垂直移動距離 = \frac{1}{2} \times 電子移動時間 \times 最終垂直速度
 $$
 1. $$ 最終垂直速度 = 0.36m \div (\frac{1}{2} \times (1.5 \times 10^{-7}s) ) = 4.8 \times 10^6 $$
-1. $$ \begin{align} 電子垂直加速度 = 最終垂直速度 \div 電子移動時間
-\\ = 4.8 \times 10^6 {^{m}/_s} \div 1.5 \times 10^{-7} s 
-\\ = 3.2 \times 10^{13} {^m/s^2} \end{align}$$
+1. $$ \begin{align} 電子垂直加速度 = 最終垂直速度 \div 電子移動時間\\ 
+= 4.8 \times 10^6 {^{m}/_s} \div 1.5 \times 10^{-7} s \\ 
+= 3.2 \times 10^{13} {^m/s^2} \end{align} $$
+
+## 第二項目<br>Item 2 - A child throws a ball with an initial speed of 8.00 m/s at an angle of 40.0° above the horizontal. The ball leaves her hand 1.00 m above the ground and experience negligible air resistance.
+### 第 A 部份<br>Part A - What is the magnitude of the ball's velocity just before it hits the ground?
+1. 由動量守恆可推得球掉落到離地 1.00 公尺時的速度為 $$ 8.00 ^{公尺}/_{秒} $$ 向水平面下 40.0 度角方向
+2. $$ 垂直方向速度 = 8.00 ^m/_s \times \sin{40 度} \approx 5.142300877 ^m/_s （向下） $$
+3. $$ 高度 1.00 公尺時的墜落時間 = $$
