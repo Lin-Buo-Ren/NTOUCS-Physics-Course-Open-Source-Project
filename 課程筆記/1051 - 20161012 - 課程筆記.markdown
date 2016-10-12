@@ -78,3 +78,7 @@
 ### 庫侖定律
 * (note 1141)
 * $$ \overrightarrow{F} = K_e \frac{q_1q_2}{r^2}\hat{r} $$ 
+  * $$ \hat{r} $$：代表兩粒子間延伸？的單位向量
+  * $$ r $$：兩粒子間的距離
+  * $$ K_e = 8.99 \times 10^9 {^{N \cdot m^2}}/_{c^2} $$：coulumb constant
+* 與重力公式相比較：$$ \overrightarrow{F} = G \frac{m_1 m_2}{r^2} \hat{r} $$ 
