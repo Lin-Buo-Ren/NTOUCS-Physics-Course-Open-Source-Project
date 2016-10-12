@@ -1,4 +1,17 @@
 # 1051 - 20161012 - 課程筆記
 ## 等速率圓周運動<br>Uniform Circular Motion
-* 在半徑為 $$ r $$ 圓形的路徑上，以等速率 $$ V $$ 運動，仍有加速度（向心加速度）
-
+* 在半徑為 $$ r $$ 圓形的路徑上，以等速率 $$ V $$ 運動，仍有加速度（向心加速度(centripical acceleration)）
+  * (missed)
+  * (note0955)
+    * $$ \overrightarrow{r} $$ 轉了 360 度，$$ \overrightarrow{V} $$ 一樣也轉了 360 度
+    * 左邊與右邊三角形形成「相似三角形」，可得 $$ \Delta\overrightarrow{r} = \Delta \overrightarrow{V} $$
+    * $$ \Delta \overrightarrow{V} = \frac{V}{r} \Delta \overrightarrow{r} $$
+    * $$ a = \frac{V_f - V_i}{t_f - t_i} = \frac{\Delta \overrightarrow{V}}{\Delta t} $$
+    * $$ \Delta \overrightarrow{V} = \frac{V}{r} \Delta \overrightarrow{r} $$
+    * 除上 \frac{1}{\Delta t}： $$ \frac{\Delta \overrightarrow{V}}{\Delta{t}} (missed) $$
+    * $$ \overrightarrow{a} = \overrightarrow{a_t}+ 
+\overrightarrow{a_r} $$
+    * 切線加速度(tangential acceleration) 速度改變  
+    $$ a_t = \frac{d | \overrightarrow{V} |}{dt} $$
+    * 徑向加速度(missed)
+    * $$ a_r = -a_c $$
