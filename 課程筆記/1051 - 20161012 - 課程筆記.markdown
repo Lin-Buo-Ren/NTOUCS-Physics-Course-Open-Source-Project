@@ -73,6 +73,8 @@
 * 應用：(missed)
 
 
-* 原子郵袋正電的質子(proton)與帶負電的電子
+* 原子郵袋正電的質子(proton)與帶負電的電子(electron)、電中性的中子(neutron)組成。質子與中子彼此緊密地被束縛在中央的原子核。
 
-### 電力<br>Electric Forces
+### 庫侖定律
+* (note 1141)
+* $$ \overrightarrow{F} = K_e \frac{q_1q_2}{r^2}\hat{r} $$ 
