@@ -96,5 +96,5 @@
 * 粒子 1 受到來自粒子 2 的靜電力 $$ \overrightarrow{F_{12}} $$ 之大小(magnitude)及方向為何？
   * (missed) $$ = 8.99 \times 10^{9} {^{N\cdot m^2}}/_{c^2} \times \frac{1.6 \times (missed)}{}$$
 * (note 1159)
-  * $$ \overrightarrow{F_{13}} = \frac{1}{4\pi \epsilon_0} \times \frac{| q_1 | |(missed) | }{} $$
-  * $$ \overrightarrow{F_{1_net}} (missed) $$
+  * $$ \overrightarrow{F_{13}} = \frac{1}{4\pi \epsilon_0} \times \frac{| q_1 | | q_2 |}{(\frac{3}{4} R)^2}(missed) $$
+  * $$ \begin{align} \overrightarrow{F_{1_{net}}} \\= \overrightarrow{F_{12}} + \overrightarrow{F_{13}} \\=  (missed) \end{align}$$
