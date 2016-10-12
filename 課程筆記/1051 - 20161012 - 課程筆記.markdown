@@ -33,4 +33,18 @@
 ## 第 21 章 - 電學基本介紹
 * 下次小考考庫侖定律的應用
 
+
+### 電磁學的沿革
+* 西元前 2000 年中國就有記載
+* Hans Christian Oersted 發現電流使具有磁性的指南針偏折
+* Michael Faraday put a wire near the magnet（發現磁生電）
+* James C. Maxwell 整理成數學式
+
+### 電荷<br>Electric Charges
+* 兩種電荷：正電荷、負電荷
+* 日常生活所見物體多為電中性
+* 玻璃棒與絲絹 / 皮毛(fur)互相摩擦
+* 同性電荷相斥(repel)，異性電荷相吸(attract)
+  * 應用：影印機將碳粉帶正電荷、要印的表面使之帶負電荷，並施以高溫將兩者合併
+
 ### 電力<br>Electric Forces
