@@ -82,3 +82,19 @@
   * $$ r $$：兩粒子間的距離
   * $$ K_e = 8.99 \times 10^9 {^{N \cdot m^2}}/_{c^2} $$：coulumb constant
 * 與重力公式相比較：$$ \overrightarrow{F} = G \frac{m_1 m_2}{r^2} \hat{r} $$ 
+
+
+* SI 單位 $$ 1C = (1A)(1s) $$
+* $$ i = \frac{dq}{dt} $$
+* $$ K_e = \frac{1}{4\pi \epsilon_0} = 8.99 \times 10^9 {^{N \cdot m^2}}/c^2 $$
+* $$ \epsilon_0 = 8.85 \times 10^{-12} {^{c^2}(missed)} $$
+
+### 疊加原則<br>Superposition Rule
+* 以粒子為例：  
+  $$ \overrightarrow{(missed)} $$
+* (note 1154)
+* 粒子 1 受到來自粒子 2 的靜電力 $$ \overrightarrow{F_{12}} $$ 之大小(magnitude)及方向為何？
+  * (missed) $$ = 8.99 \times 10^{9} {^{N\cdot m^2}}/_{c^2} \times \frac{1.6 \times (missed)}{}$$
+* (note 1159)
+  * $$ \overrightarrow{F_{13}} = \frac{1}{4\pi \epsilon_0} \times \frac{| q_1 | |(missed) | }{} $$
+  * $$ \overrightarrow{F_{1_net}} (missed) $$
