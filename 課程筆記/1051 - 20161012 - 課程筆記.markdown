@@ -39,6 +39,7 @@
 * Hans Christian Oersted 發現電流使具有磁性的指南針偏折
 * Michael Faraday put a wire near the magnet（發現磁生電）
 * James C. Maxwell 整理成數學式
+* Benjamin Franklin 定義正、負電荷符號
 
 ### 電荷<br>Electric Charges
 * 兩種電荷：正電荷、負電荷
