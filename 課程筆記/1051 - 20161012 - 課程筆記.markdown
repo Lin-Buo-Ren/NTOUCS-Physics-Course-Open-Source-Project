@@ -14,4 +14,5 @@
     * 切線加速度(tangential acceleration) 速度改變  
     $$ a_t = \frac{d | \overrightarrow{V} |}{dt} $$
     * 徑向加速度(missed)
-    * $$ a_r = -a_c $$
+      * $$ a_r = -a_c = - \frac{V^2}{r} $$
+      * 與向心加速度單位向量 $$ \hat{r} $$ 之方向相反(?)
