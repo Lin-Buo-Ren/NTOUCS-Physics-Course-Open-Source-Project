@@ -5,32 +5,35 @@
 
 ## 第一章 導論
 ### 基本的物理量
-| 類別 | 單位 |
-| :---: | :---: |
-| 長度 |$$m(meter)$$|
-| 質量 |$$kg(kilogram)$$ |
-| 時間 |$$ second（秒）$$ |
-| 電流 | $$ A(ampere)（安培）$$ |
-| 溫度 |$$ k(kelvin) $$ |
-| amount of substance | $$ mol$$ |
-| luminous intensity |$$cd$$ |
-
 * 由法國公家機構 Syste`me International(S.I.) 定義（稱為公制）
 
-### 過去使用的單位
+| 類別 | S.I. 單位 |
+| :---: | :---: |
+| 長度<br>Length | 公尺<br>meter (m)|
+| 質量 | 公斤<br>kilogram (kg) |
+| 時間 | 秒<br>second (s) |
+| 電流 | 安培<br>Ampere (A) |
+| 溫度 | Kelvin(K) |
+| Amount of Substance | 莫耳<br>mol |
+| Luminous Intensity | cd |
+
+
+### 過去曾活躍過的單位
 * 英國：yard
 * 法國：foot
 
-### 定義方式沿革
-* 長度
-	1. $$\frac{1}{10 \times 10}$$ 赤道到北極長度(1799)
-	1. platimum(\(Pt_{78}\))-iridium(\(Ir_{77}\)) （金白金）合金(196?)
-	1. 光在真空中 \( \frac{1}{?} \) 秒走的距離
-* 質量（n.b. 質量(mass)與重量(weight) 的不同）
-	* (missed)
-* 時間
-	1. 秒 = 平均太陽日之時段(1960~)
-	1. atomic clock cesium-133
+### 單位定義方式沿革
+#### 長度單位
+1. $$\frac{1}{10 \times 10}$$ 赤道到北極長度(1799)
+1. platimum(\(Pt_{78}\))-iridium(\(Ir_{77}\)) （金白金）合金(196?)
+1. 光在真空中 \( \frac{1}{?} \) 秒走的距離
+
+#### 質量（n.b. 質量(mass)與重量(weight) 的不同）單位
+* (missed)
+
+#### 時間單位
+1. 秒 = 平均太陽日之時段(1960~)
+1. atomic clock cesium-133
 
 ### Prefixs for Power of 10
 
@@ -39,7 +42,7 @@
 $$ 10^{-15} $$ | femto
 $$ 10^{-12} $$ | pico
 $$ 10^{-9} $$ | nano
-$$ 10^{-6} $$ | micro(\( \mu \))
+$$ 10^{-6} $$ | micro($$ \mu $$)
 $$ 10^{-3} $$ | milli(m)
 $$ 10^{-2} $$ | centi(c)
 $$ 10^{3} $$ | kilo(K)
