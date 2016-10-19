@@ -79,5 +79,10 @@ q_{test}：測試電荷 $$
 | $$ \omega $$ | omega |
 
 ### 帶電圓環所產生的電場
-* \picture{1056}
-* 半徑為 $$ R $$ 且帶正均勻線電荷密度為 $$ \lambda $$ 的細圓環，則在圓環中心軸上與圓環平面距離為 $$ Z $$ 之 $$ P $$ 點處的電場為何？
+* \picture{1059}
+* 半徑為 $$ R $$ 且帶正均勻線電荷密度為 $$ \lambda $$ 的細圓環，則在圓環中心軸上與圓環平面距離為 $$ Z $$ 之 $$ P $$ 點處的電場 $$ \overrightarrow{E} $$ 為何？
+* \picture{1103}
+* $$ dq = \lambda ds $$
+* $$ dE = \frac{1}{4\pi\epsilon_0} \frac{dq}{r^2}\\
+= \frac{1}{4\pi\epsilon_0} \frac{\lambda ds}{r^2}\\
+= \frac{1}{4\pi\epsilon_0} \frac{\lambda ds}{(missed)}$$
