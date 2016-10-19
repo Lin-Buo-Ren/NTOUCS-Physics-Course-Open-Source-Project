@@ -54,3 +54,27 @@ q_{test}：測試電荷 $$
 * $$ (missed) $$
 * $$ E = 2 E_{3x} = 2 E_3 cos{30\deg}(missed \picture{1045} $$_
 
+### 電荷的一些量測值
+| 分類 | 符號 | S.I. 單位 |
+| -- | -- | -- |
+| 電荷 | $$q$$ | $$C$$ |
+| 線電荷密度<br>Linear Charge Density | $$ \lambda $$ | $$ ^C/_m $$ |
+| 面電荷密度<br>Surface Charge Density | $$ \sigma $$ | $$ ^C/_{m^2} $$ |
+| 體電荷密度<br>Volume Charge Density| $$ \rho $$ | $$ ^C/_{m^3} $$ |
+
+#### 常用希臘字元
+| 字元 | 名稱 |
+| -- | -- |
+| $$ \alpha $$ | alpha |
+| $$ \beta $$ | beta|
+| $$ \gamma $$ | gamma | 
+| $$ \delta $$ | delta|
+| $$ \epsilon $$ | epsilon |
+| $$ \kappa $$ | kappa |
+| $$ \lambda $$ | lambda |
+| $$ \rho $$ | rho |
+| $$ \sigma $$ | sigma |
+| $$ \phi $$ | phi |
+| $$ \psi $$ | psi | 
+| $$ \omega $$ | omega |
+
