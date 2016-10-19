@@ -100,3 +100,6 @@ $$ E = \frac{Q}{4\pi\epsilon_0}\frac{1}{Z^2} $$
 1. $$ dE = \frac{1}{d\pi\epsilon_0}\frac{dq}{r^2} = \frac{1}{4\pi\epsilon_0}\frac{\lambda ds}{r^2}$$
 1. 利用對稱性 y 軸方向分量抵銷， $$ dE_x = dE\cos \theta = \frac{1}{4\pi\epsilon_0}\frac{\lambda ds}{r^2}\cos \theta $$ 有兩個變數，消除其中一個變數
 2. $$ ds = r d \theta $$
+3. $$ E = \int dE_x = \int_{-60^{\circ}}^{60^{\circ}} \frac{1}{4\pi\epsilon_0} \frac{\lambda}{r^2} \cos \theta r d\theta\\
+= \frac{\lambda}{}(missed \picture{1143}) $$
+1. 
