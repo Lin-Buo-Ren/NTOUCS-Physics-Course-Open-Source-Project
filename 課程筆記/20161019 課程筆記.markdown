@@ -52,4 +52,5 @@ q_{test}：測試電荷 $$
 * $$ \mid \overrightarrow{E_1} \mid = \frac{1}{4 \pi \epsilon_0} \frac{2Q}{d^2} $$
 * $$ \mid \overrightarrow{E_2} \mid = (missed) $$
 * $$ (missed) $$
-* $$ E = 2 E_{3x} = 2 E_3 cos{30\deg} $$_
+* $$ E = 2 E_{3x} = 2 E_3 cos{30\deg}(missed \picture{1045} $$_
+
