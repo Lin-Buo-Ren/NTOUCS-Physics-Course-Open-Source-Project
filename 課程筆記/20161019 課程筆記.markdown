@@ -112,3 +112,5 @@ $$ E = \frac{Q}{4\pi\epsilon_0}\frac{1}{Z^2} $$
 * 瞄準一截面積為 A 之正方形環，氣體之速度為均勻速度 $$\overrightarrow{V} $$。  
 $$ \Phi $$ 表示氣體通過此環的體積流速（單位時間通過該截面積的體積），即通量
 * \picture{1158}
+
+### 法向量<br>Normal Vector
