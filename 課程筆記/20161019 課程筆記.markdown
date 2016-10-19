@@ -86,3 +86,17 @@ q_{test}：測試電荷 $$
 * $$ dE = \frac{1}{4\pi\epsilon_0} \frac{dq}{r^2}\\
 = \frac{1}{4\pi\epsilon_0} \frac{\lambda ds}{r^2}\\
 = \frac{1}{4\pi\epsilon_0} \frac{\lambda ds}{(missed)}$$
+* $$ cos \theta = \frac{Z}{r} = \frac{Z}{(Z^2+R^2)^{\frac{1}{2}}} $$
+* $$ d E cos \theta = \frac{1}{4\pi\epsilon_0} \frac{Z \lambda}{(Z^2 + R^2)^{\frac{1}{2}}(missed) $$
+* if $$ Z >> R $$  
+$$ E = \frac{Q}{4\pi\epsilon_0}\frac{1}{Z^2} $$
+* if $$ Z << R $$(missed)
+
+
+#### 圖中為一帶均勻電荷 $$ -Q $$ 的塑膠棒，該棒被彎曲為一個 $$120^{\circ}$$ 半徑為 $$ r $$ 的圓弧。原點位於圓弧的曲率中心(curvature) $$P $$ 點
+\picture{1129}
+
+1. $$ dq = \lambda ds $$
+1. $$ dE = \frac{1}{d\pi\epsilon_0}\frac{dq}{r^2} = \frac{1}{4\pi\epsilon_0}\frac{\lambda ds}{r^2}$$
+1. 利用對稱性 y 軸方向分量抵銷， $$ dE_x = dE\cos \theta = \frac{1}{4\pi\epsilon_0}\frac{\lambda ds}{r^2}\cos \theta $$ 有兩個變數，消除其中一個變數
+2. $$ ds = r d \theta $$
