@@ -43,3 +43,18 @@ $$\begin{align}
   \Phi_頂 &= \overrightarrow{E} \cdot \overrightarrow{A} = (4.0(X + 1.0) \hat{i} - 3.0 \hat{j} + 5.0 \hat{k}) + (+4 \hat{j})\\
   &= (-3.0) \cdot (+4) = -12 {^{N \cdot m^2}/_C}
 \end{align}$$
+
+## 18.
+### 解決方案 - 微分&疊加原則
+* 將圓弧分解為多個小部份
+* $$
+dq = \lambda ds\\
+dE = \frac{1}{4\pi \epsilon_0} \frac{dq}{r^2} = \frac{1}{4\pi \epsilon_0} \frac{\lambda ds}{r^2}
+$$
+* 利用對稱性
+* $$ \begin{align}
+dE_x &= dE \cos \theta \\&= \frac{1}{4\pi \epsilon_0} \frac{\lambda}{r^2}\cos \theta ds 
+\end{align}$$
+* $$ ds = r \times d\theta = int_{180 degree}^{0 degree} \frac{1}{4\pi\epsilon_0} \frac{\lambda}{r^2}\cos \theta r d\theta\\
+ds：弧長（微）$$
+* $$  $$
