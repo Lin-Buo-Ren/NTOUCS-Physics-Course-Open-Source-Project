@@ -2,9 +2,11 @@
 ## 平行板電容器
 * $$ E = \frac{\sigma}{\epsilon_0} = \frac{Q}{A} \\
   \sigma : 面電荷密度 $$
-* $$ \Delta V = E \cdot d = \frac{Q}{A \epsilon_0} \cdot d\\
-= - \int^f_i \overrightarrow{E} \cdot d \overrightarrow{s} \\
-= E \cdot d $$
+* $$ \begin{align}
+\Delta V &= E \cdot d = \frac{Q}{A \epsilon_0} \cdot d\\
+  &= - \int\limits^f_i \overrightarrow{E} \cdot d \overrightarrow{s} \\
+  &= E \cdot d 
+  \end{align}$$
 * $$ q = C \cdot \Delta V\\
 C = \frac{q}{\Delta V} = \frac{Q}{\frac{Q \cdot d}{A \epsilon_0}} = \frac{\epsilon_0 A}{d} \\
 A：平行板面積\\
