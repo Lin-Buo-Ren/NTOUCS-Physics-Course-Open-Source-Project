@@ -37,3 +37,9 @@ q : 總電量\\
 E = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2} $$
 * 雖然電通量跟電場與面積有關，但是電荷不變電通量依然不變
 * 答案： $$-320 {^{N \cdot m^2} / _C} $$
+
+### 17.
+$$\begin{align}
+  \Phi_頂 &= \overrightarrow{E} \cdot \overrightarrow{A} = (4.0(X + 1.0) \hat{i} - 3.0 \hat{j} + 5.0 \hat{k}) + (+4 \hat{j})\\
+  &= (-3.0) \cdot (+4) = -12 {^{N \cdot m^2}/_C}
+\end{align}$$
