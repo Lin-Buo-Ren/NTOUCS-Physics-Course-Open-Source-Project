@@ -21,7 +21,7 @@ $$ F = \frac{1}{4\pi \epsilon_0} \frac{e^2}{r^2}\\
 
 #### (b)兩質子間的重力大小為何？
 $$ \begin{align} F = G \frac{m_P m_P}{r^2} \\
-= 6.67 \times 10^{-11} {^{N \cdot m^2}/_{{kg}^2}} \frac{(1.67 \times 10^{-17}kg)^2}{(4.0 \times 10^{-15}m)^2} \\ = 1.2 \times 10^{-35} N \end{align}$$
+= 6.67 \times 10^{-11} {^{N \cdot m^2}/_{ {kg}^2} } \frac{(1.67 \times 10^{-17}kg)^2}{(4.0 \times 10^{-15}m)^2} \\ = 1.2 \times 10^{-35} N \end{align}$$
 
 強核力的巨大力量讓質子(?)可以維持在一起
 
