@@ -28,3 +28,10 @@ $$
   &= (C_1 + C_2 + C_3)V
 \end{align}
 $$
+
+## 期中考檢討
+### 14.
+* $$ \epsilon_0 \Phi = q \\
+\Phi ：總電通量\\
+q : 總電量$$
+* $$ E = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2} $$
