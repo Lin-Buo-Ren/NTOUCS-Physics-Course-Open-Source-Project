@@ -36,7 +36,7 @@
 $$ \overrightarrow{A} = \overrightarrow{B} → \mid \overrightarrow{A} \mid = \mid \overrightarrow{B} \mid $$ （絕對值包住向量代表向量的 magnitude）
 
 ### 內積<br />dot/inner product
-$$ \( \overrightarrow{A} \dot \overrightarrow{B} = \mid \overrightarrow{A} \mid \mid \overrightarrow{B} \mid \cos{\theta} \) $$
+$$ \overrightarrow{A} \cdot \overrightarrow{B} = \mid \overrightarrow{A} \mid \mid \overrightarrow{B} \mid \cos{\theta} $$
 
 ### 外積<br>cross product
 
