@@ -94,3 +94,9 @@ Q = n A L e$$
   * $$ L $$：長度
   * $$ e $$：載子的單位電量
   * $$ V_d $$：飄移速度(drift speed)
+* $$ t = \frac{L}{V_d} $$
+* $$ \begin{align}
+I = \frac{Q}{t} &= \frac{nALe}{\frac{L}{V_d}}\\
+&= nAeV_d
+\end{align}$$
+* $$ J $$（電流密度）：$$ \frac{I}{A} = \frac{nAeV_d}{A} = neV_d ({^A/_{m^2}}) $$
