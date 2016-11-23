@@ -50,4 +50,5 @@ dV = - \overrightarrow{E} \cdot d \overrightarrow{s} \\
 $$
 * 電場是沿此方向的電位隨距離的變化率再取負值
 * 假如 $$ \overrightarrow{E} $$ 只有 $$ x $$ 軸方向的電場  
-$$ \overrightarrow{E} \cdot d \overrightarrow{s} = E_x dx $$
+$$ \overrightarrow{E} \cdot d \overrightarrow{s} = E_x dx \\
+E_x = \frac{-dV}{dx} $$
