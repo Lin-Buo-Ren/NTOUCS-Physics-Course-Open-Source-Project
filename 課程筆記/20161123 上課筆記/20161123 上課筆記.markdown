@@ -43,10 +43,11 @@ U_f = \frac{q^2}{2C_k} = \frac{q^2}{2C\cdot k}= \frac{U_i}{k} &= \frac{3.6\times
 \end{align}$$
 
 ## 第 23 章回顧電位與電場的關係
-* $$
-\Delta V = V_f - V_i = - \int^f_i \overrightarrow{E} \cdot d \overrightarrow{s} \\
+* $$ \Delta V = V_f - V_i = - \int^f_i \overrightarrow{E} \cdot d \overrightarrow{s} \\
 (missed photo 1119)\\
 dV = - \overrightarrow{E} \cdot d \overrightarrow{s} \\
-\frac{(? 1120) V}{(?) X} = - \overrightarrow{E_X}
+\frac{\partial V}{\partial X} = - \overrightarrow{E_X}
 $$
 * 電場是沿此方向的電位隨距離的變化率再取負值
+* 假如 $$ \overrightarrow{E} $$ 只有 $$ x $$ 軸方向的電場  
+$$ \overrightarrow{E} \cdot d \overrightarrow{s} = E_x dx $$
