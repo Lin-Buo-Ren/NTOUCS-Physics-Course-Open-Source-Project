@@ -86,8 +86,8 @@ i & j & k \\
 * $$ \frac{dw}{dx} = \frac{dw}{du} \frac{du}{dx} $$
 * e.g. $$\frac{d(\sin{\theta})^2}{d\theta} = 2 \sin{\theta} \cos{\theta}$$
 
-### $$ e $$自然對數
-$$ e = \displaystyle \lim_{\Delta l \to (missed) $$
+### $$ e $$ 自然對數
+$$ e = \displaystyle \lim_{\Delta l \to  (missed)} $$
 
 ### 高階導數
 * $$y$$ 對 $$x$$ 的二階導數  
