@@ -36,7 +36,17 @@ U_1 = \frac{q^2}{2C} &= \frac{(CV)^2}{2C} = \frac{1}{2}CV^2 \\
 \end{align} $$
 
 ##### (b)在插入瓷板後位能為多少？
+###### 解決方案
 $$ \begin{align}
 U_f = \frac{q^2}{2C_k} = \frac{q^2}{2C\cdot k}= \frac{U_i}{k} &= \frac{3.6\times 10^{10} (?)}{6.50}\\
 &= 5.54 \times 10^{-11} J 
 \end{align}$$
+
+## 第 23 章回顧電位與電場的關係
+* $$
+\Delta V = V_f - V_i = - \int^f_i \overrightarrow{E} \cdot d \overrightarrow{s} \\
+(missed photo 1119)\\
+dV = - \overrightarrow{E} \cdot d \overrightarrow{s} \\
+\frac{(? 1120) V}{(?) X} = - \overrightarrow{E_X}
+$$
+* 電場是沿此方向的電位隨距離的變化率再取負值
