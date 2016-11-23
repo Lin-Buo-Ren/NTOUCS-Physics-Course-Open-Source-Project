@@ -42,24 +42,24 @@ $$ \overrightarrow{A} \cdot \overrightarrow{B} = \mid \overrightarrow{A} \mid \m
 
 ### 單位向量<br>Unit Vector
 * 大小為 1 的向量
-* 二維座標系：\( \overrightarrow{A} = A_x \hat i + A_y \hat j\)
-	* \( \mid \hat i \mid = \mid \hat{j} \mid = 1 \)
-* \( \hat{A} = \frac{\overrightarrow{A}}{\mid \overrightarrow{A} \mid } \)
-* 令 \( \overrightarrow{A} = (1, 2, 2) = 1 \hat{i} + 2\hat{j} + 2\hat{k} \)、\( \overrightarrow{B} = (-5, 7, -9) = -5\hat{i} + 7\hat{j} +(-9)\hat{k} \)
-    * \( \overrightarrow{A} + \overrightarrow{B} = -4\hat{i} + 9\hat{j} -7\hat{k} \)  
-      \( \overrightarrow{A} - \overrightarrow{B} = 6\hat{i} - 5\hat{j} + 11\hat{k} \)
-    * \( \mid \overrightarrow{A} \mid = \sqrt{1^2 + 2^2 + 2^2} = 9 \)（使用畢氏定理）
-    * \( \hat{A} = 0.33 \hat{i} + 0.67 \hat{j} + 0.67\hat{k} \)
-    * \( \overrightarrow{A} \cdot \overrightarrow{B} = a_x b_x + a_y b_y + a_z b_z = 1(-5) + 2(7) + 2(-9) = -5 + 14 - 18 \)
-    * \( \cos{\overrightarrow{A} 與 \overrightarrow{B} 的夾角} = \frac{\overrightarrow{A} \cdot \overrightarrow{B}}{\mid \overrightarrow{A} \mid \mid \overrightarrow{B} \mid} \)
-    * \( \overrightarrow{A} \times \overrightarrow{B} = \begin{vmatrix}\hat{i} & \hat{j} & \hat{k} \\
+* 二維座標系：$$ \overrightarrow{A} = A_x \hat i + A_y \hat j$$
+	* $$ \mid \hat i \mid = \mid \hat{j} \mid = 1 $$
+* $$ \hat{A} = \frac{\overrightarrow{A}}{\mid \overrightarrow{A} \mid } $$
+* 令 $$ \overrightarrow{A} = (1, 2, 2) = 1 \hat{i} + 2\hat{j} + 2\hat{k} $$、$$ \overrightarrow{B} = (-5, 7, -9) = -5\hat{i} + 7\hat{j} +(-9)\hat{k} $$
+    * $$ \overrightarrow{A} + \overrightarrow{B} = -4\hat{i} + 9\hat{j} -7\hat{k} $$  
+      $$ \overrightarrow{A} - \overrightarrow{B} = 6\hat{i} - 5\hat{j} + 11\hat{k} $$
+    * $$ \mid \overrightarrow{A} \mid = \sqrt{1^2 + 2^2 + 2^2} = 9 $$（使用畢氏定理）
+    * $$ \hat{A} = 0.33 \hat{i} + 0.67 \hat{j} + 0.67\hat{k} $$
+    * $$ \overrightarrow{A} \cdot \overrightarrow{B} = a_x b_x + a_y b_y + a_z b_z = 1(-5) + 2(7) + 2(-9) = -5 + 14 - 18 $$
+    * $$ \cos{\overrightarrow{A} 與 \overrightarrow{B} 的夾角} = \frac{\overrightarrow{A} \cdot \overrightarrow{B}}{\mid \overrightarrow{A} \mid \mid \overrightarrow{B} \mid} $$
+    * $$ \overrightarrow{A} \times \overrightarrow{B} = \begin{vmatrix}\hat{i} & \hat{j} & \hat{k} \\
 A_1 & A_2 & A_3 \\
 B_1 & B_2 & B_3 
 \end{vmatrix} = (missed) = \begin{vmatrix} 
 i & j & k \\
 1 & 2 & 2 \\
 -5 & 7 & -9
-\end{vmatrix} = \hat{i} \begin{vmatrix}(missed)\end{vmatrix}(missed) = -32 \hat{i} - 1 \hat{j} + 17 \hat{k} \)
+\end{vmatrix} = \hat{i} \begin{vmatrix}(missed)\end{vmatrix}(missed) = -32 \hat{i} - 1 \hat{j} + 17 \hat{k} $$
 
 * 如果連這個都不會的話這門課很難過
 
@@ -67,64 +67,64 @@ i & j & k \\
 
 ## 微積分複習
 ### 斜率
-* \( x \) 軸方向的變量 / \( y \) 軸方向的變量
+* $$ x $$ 軸方向的變量 / $$ y $$ 軸方向的變量
 
 ### 極限
 
 ### 微分
-* 微分就是找曲線某點 \( (x, y) \) 的斜率
-* \( y 對 x 的變化率 = \displaystyle\lim_{\Delta x →0}{\frac{\Delta y}{\Delta x}}\)
+* 微分就是找曲線某點 $$ (x, y) $$ 的斜率
+* $$ y 對 x 的變化率 = \displaystyle\lim_{\Delta x →0}{\frac{\Delta y}{\Delta x}}$$
 * (missed)
 * 三角函數做微分
-	* \(\frac{d \sin{\theta}}{d\theta} = \cos{\theta} \\
-	  (missed) \)
+	* $$\frac{d \sin{\theta}}{d\theta} = \cos{\theta} \\
+	  (missed) $$
 
 ### 積分
 求積分
 
 ### Chain Rule
-* \( \frac{dw}{dx} = \frac{dw}{du} \frac{du}{dx} \)
-* e.g. \(\frac{d(\sin{\theta})^2}{d\theta} = 2 \sin{\theta} \cos{\theta}\)
+* $$ \frac{dw}{dx} = \frac{dw}{du} \frac{du}{dx} $$
+* e.g. $$\frac{d(\sin{\theta})^2}{d\theta} = 2 \sin{\theta} \cos{\theta}$$
 
-### \( e \)自然對數
-\( e = \displaystyle \lim_{\Delta l \to (missed) \)
+### $$ e $$自然對數
+$$ e = \displaystyle \lim_{\Delta l \to (missed) $$
 
 ### 高階導數
-* \(y\) 對 \(x\) 的二階導數  
-  \( \frac{d}{dx}\frac{dy}{dx} = \frac{d^2y}{dx^2}\)
-	* \(  y = 2x^2\\
+* $$y$$ 對 $$x$$ 的二階導數  
+  $$ \frac{d}{dx}\frac{dy}{dx} = \frac{d^2y}{dx^2}$$
+	* $$  y = 2x^2\\
   \text{微分 1 次：}\frac{dy}{dx} = 6x^2 \\
   \text{微分 2 次：}\frac{d^2y}{dx^2} = 12x
-  \)
+  $$
   
 ## 物理學 3 大運動 - 平移、轉動、振動<br />Translation, Rotation and Vibration
-* \(位移 \to^{微分} 速度 \to^{微分}加速度\)
+* $$位移 \to^{微分} 速度 \to^{微分}加速度$$
 ## 位置<br>Position
 * 可為 + 、 -
 ## 位移<br>Displacement
 位置的變化量（向量）
 
 ## 平均速率<br>Average speed
-\( ^{總距離}/_{總時間} \)
+$$ ^{總距離}/_{總時間} $$
 
 ## 平均速度<br>Average Velocity
-\(^{位移}/_{總時間}\)
+$$^{位移}/_{總時間}$$
 
 ## 瞬時速率<br>Instantaneous Speed
-\(時間 \to 0\)
+$$時間 \to 0$$
 
 ## 瞬時速度<br>Instantaneous Velocity
-\(時間 \to 0\)
+$$時間 \to 0$$
 
 ## 平均加速度<br>Average Acceleration
 
 ## 瞬時加速度<br>Acceleration
 * 稱「加速度」一般都指瞬時加速度
 
-## 範例：一個質點的位置可由：\(x = 4 - 27t + t^3\)表示，\( x \)的單位是公尺，\(t\)的單位是秒。
-* (a)此質點 \(v(t)\)、\(a(t)\) 的函數式  
-  \( V(t) = \frac{dx(t)}{dt} = -27 + 3t^2\\
-  a(t) = \frac{dV(t)}{dt} = (missed) \)
+## 範例：一個質點的位置可由：$$x = 4 - 27t + t^3$$表示，$$ x $$的單位是公尺，$$t$$的單位是秒。
+* (a)此質點 $$v(t)$$、$$a(t)$$ 的函數式  
+  $$ V(t) = \frac{dx(t)}{dt} = -27 + 3t^2\\
+  a(t) = \frac{dV(t)}{dt} = (missed) $$
 * (b)什麼時候速度為 0？  
-  \( V(t) = 0 = -27 + 3t^2\\
-  t = \pm 3 sec \)
+  $$ V(t) = 0 = -27 + 3t^2\\
+  t = \pm 3 sec $$
