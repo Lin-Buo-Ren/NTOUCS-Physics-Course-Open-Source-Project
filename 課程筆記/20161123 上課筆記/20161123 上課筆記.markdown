@@ -58,7 +58,18 @@ E_x = \frac{-dV}{dx} $$
 $$ V = \frac{1}{4 \pi \epsilon_0}\frac{q}{r} \\
 V = \int dV = \frac{1}{4 \pi \epsilon_0} (missed 1131) $$
 
-### 半徑為 $$ R $$，且帶均勻電荷的細圓環，其總帶電量為 $$Q $$，則 $$ P $$ 點（在圓環的中心軸上，與圓環平面相距為 $$ Z $$）的電位為何？
+### 半徑為 $$ R $$，且帶均勻電荷的細圓環，其總帶電量為 $$Q $$，則 $$ P $$ 點（在圓環的中心軸上，與圓環平面相距為 $$ Z $$）的電位為何？問 $$ P $$ 點電場的大小？
 * (photo 1134)
 
 #### 解決方案
+* $$ \begin{align}
+V &= \frac{1}{4 \pi \epsilon_0} \int \frac{dq}{r} \\
+&= \frac{1}{4 \pi \epsilon_0} \int \frac{dq}{\sqrt{Z^2 + R^2}} \\
+&= \frac{1}{4 \pi \epsilon_0} \frac{Q}{\sqrt{Z^2 + R^2}}
+\end{align}$$
+
+* $$ \begin{align}
+E_Z = - \frac{\partial V}{\partial Z} &= - \frac{1}{4 \pi \epsilon_0} Q \frac{d}{dZ} (Z^2 + R^2)^{\frac{1}{2}} \\
+&= - \frac{1}{4 \pi \epsilon_0} Q (-\frac{1}{2})(Z^2 + R^2)^{-\frac{3}{2}}(2Z) \\
+&= \frac{1}{4 \pi \epsilon_0}Q \frac{Z}{(\sqrt{Z^2 + R^2})^{\frac{3}{2}}}
+\end{align} $$
