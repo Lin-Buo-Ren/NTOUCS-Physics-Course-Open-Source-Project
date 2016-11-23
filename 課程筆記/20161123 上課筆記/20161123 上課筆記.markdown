@@ -4,7 +4,8 @@
 * (photo 1030)
 * 電荷 $$ q' $$ 自一極板移至另一極板，此時兩極板間之電位差 $$ V' $$ 為 $$ \frac{q'}{C} $$
 * 欲再轉移 $$ dq' $$ 的額外電荷至極板  
-$$ dW = V'dq' = \frac{q'}{C} dq'\\ （額外資訊： V' 指向 q'，photo 1035）$$
+$$ dW = V'dq' = \frac{q'}{C} dq'$$  
+ （額外資訊： V' 指向 q'，photo 1035）
 * (missed)
 * 以位能的形式儲存在電容器中  
 $$ U = \frac{q^2}{2C} $$
@@ -52,3 +53,12 @@ $$
 * 假如 $$ \overrightarrow{E} $$ 只有 $$ x $$ 軸方向的電場  
 $$ \overrightarrow{E} \cdot d \overrightarrow{s} = E_x dx \\
 E_x = \frac{-dV}{dx} $$
+
+### 連續電荷分佈產生的電位
+$$ V = \frac{1}{4 \pi \epsilon_0}\frac{q}{r} \\
+V = \int dV = \frac{1}{4 \pi \epsilon_0} (missed 1131) $$
+
+### 半徑為 $$ R $$，且帶均勻電荷的細圓環，其總帶電量為 $$Q $$，則 $$ P $$ 點（在圓環的中心軸上，與圓環平面相距為 $$ Z $$）的電位為何？
+* (photo 1134)
+
+#### 解決方案
