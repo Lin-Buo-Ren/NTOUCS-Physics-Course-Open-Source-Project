@@ -11,7 +11,7 @@
 * 補強時間：週二、四（請參考課程大綱）
 
 ## 有效數字
-* \( \frac{0.748（有效數字：4） \times 2.2（有效位數：2）}{3.885} = 0.42371... \)
+* $$ \frac{0.748（有效數字：4） \times 2.2（有效位數：2）}{3.885} = 0.42371... $$
 	* 乘除法有效數字看全部位數（含小數點前的位數）
 	* 只有 0.42 為有效數字
 * 27.153（3位） + 138.2（1位） - 11.74（2 位）
@@ -19,15 +19,15 @@
 
 ## 內積和外積
 ### inner/dot product
-\( \overrightarrow{A} \cdot \overrightarrow{B}= \)
+$$ \overrightarrow{A} \cdot \overrightarrow{B}= $$
 
 ### outer product
-\( \overrightarrow{A} \times \overrightarrow{B} = \)
+$$ \overrightarrow{A} \times \overrightarrow{B} = $$
 
 ## 三角函數
-* \( \sin{\theta} \)
-* \( \cos{\theta} \)
-* \( \tan{\theta} \)
+* $$ \sin{\theta} $$
+* $$ \cos{\theta} $$
+* $$ \tan{\theta} $$
 
 ## 微積分
 | 位移 | 微分→←積分 | 速度 | 微分→←積分 | 加速度 |
@@ -37,17 +37,17 @@
 * 積分(integral)就是找（特定區間內）**曲線下的面積**
 
 ### 聯立多項式
-* \( \frac{dx^n}{dx} = nx^{n-1} : n \neq 0 \)
+* $$ \frac{dx^n}{dx} = nx^{n-1} : n \neq 0 $$
 
 ### 不定積分
-* \( \frac{dF(x)}{dx} = f(x) \)
-* \( F(x) = \int f(x) dx \)
+* $$ \frac{dF(x)}{dx} = f(x) $$
+* $$ F(x) = \int f(x) dx $$
 
 ### 定積分
-* \( A = \int_a^b f(x)dx = F(b) - F(a) = F(x) |^b_a \)
+* $$ A = \int_a^b f(x)dx = F(b) - F(a) = F(x) |^b_a $$
 * (note 1010)
-* 曲線 \( y = 2x^2 \) 由 \( x = 2 \) 到 \(x = 3\) 的面積 = \( \int_2^3 2x^2dx = \frac{2}{3}x^3(missed) \)
-* \frac{d(\frac{2}{3}x^3)}{dx} = 2x^2 \)
+* 曲線 $$ y = 2x^2 $$ 由 $$ x = 2 $$ 到 $$x = 3$$ 的面積 = $$ \int_2^3 2x^2dx = \frac{2}{3}x^3(missed) $$
+* $$\frac{d(\frac{2}{3}x^3)}{dx} = 2x^2 $$
 
 ### 範例：質點在不同時間的位置
 | | t | x 的位置 |
@@ -75,7 +75,7 @@
 
 | 公式 | 缺什麼項 |
 | ----- | ----- |
-| \( V_f = V_i + at \) | \( X_f, X_i \) |
-| \( X_f - X_i = V_i t + \frac{1}{2} at^2 \) | \(V_f\) |
-| \( X_f - X_i = \frac{1}{2} (V_i + V_f)t \) | \(a\) |
-| \( V_f^2 = V_i ^2 + 2a (X_f - X_i) \) | \(t \) |
+| $$ V_f = V_i + at $$ | $$ X_f, X_i $$ |
+| $$ X_f - X_i = V_i t + \frac{1}{2} at^2 $$ | $$V_f$$ |
+| $$ X_f - X_i = \frac{1}{2} (V_i + V_f)t $$ | $$a$$ |
+| $$ V_f^2 = V_i ^2 + 2a (X_f - X_i) $$ | $$t $$ |
