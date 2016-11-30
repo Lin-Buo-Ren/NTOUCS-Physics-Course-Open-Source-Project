@@ -3,7 +3,11 @@
 (missed 0952)
 
 * $$ V = \frac{M}{\rho} = \frac{63.5 {^g}/{_{mole}}}{8.95 {^g}/{_{cm^3}}} = 7.09 10^{22} {^{cm^3}}/{_{mol}} $$
-* $$ n = \frac{10^6 cm^3}{1m^2} \times 6.02 \times (missed) $$
+* $$ \begin{align}
+n &= \frac{10^6 cm^3}{1m^2} \times \frac{1}{7.09 {cm^3}/{_{mol}}} \times 6.02 \times 10^{23}\\
+&=8.49 \times 10^{23} {^{銅原子}} / _{m^3}
+\end{align} $$
+* $$ I = nA = V_d = \missed $$
 * 在這邊飄移速度的大小為 $$ 2.23 \times 10^{-4} {^m}/{_s}$$ 公尺，每秒中走不到一公釐
 
 ### 問題：為何外加電場電子的移動速度這麼慢的狀態下，我們開燈還會立刻亮？
@@ -11,9 +15,13 @@
 
 ## 電阻 - 歐姆定律<br>Resistance - Ohm's Law
 ### 定義
-對很多導體（歐姆物質(ohmic materials)）兩端，電流跟電壓呈正比
-
-* (missed, photoed 1008) R = VI
+* 對很多導體（歐姆物質(ohmic materials)）兩端，電流跟電壓呈正比
+* 定義電阻  
+$$ 
+R = \frac{V}{I} \\
+V = IR \\
+I = \frac{V}{R}
+$$
 
 ### S.I. units of resistance
 $$
@@ -28,6 +36,6 @@ $$
 #### 例題：銅的電阻率 $$ \rho = 1.7 \times 10^{-8} \Omega \cdot m $$，find $$ R $$ of a Cu 線 $$ L = 1m $$、$$ A = 1 \mu m^2 = 10^{-6}m^2 $$
 $$ \begin{align} 
 R = \rho \frac{L}{A} &= 1.7 \times 10^{-8} \Omega \cdot m \frac{1m}{10^{-6}m^2} \\
-&= 1.7 times 10^{-12} \Omega = 0.017 \Omega
+&= 1.7 \times 10^{-12} \Omega = 0.017 \Omega
 \end{align}
 $$
