@@ -95,4 +95,40 @@ I = \frac{\epsilon}{R + r} $$
 $$ P_9 = I^2R = 1^2 \times 9 = 9 Watt\\
 P_1 \missing{recording 1129} $$
 
-## 第 26 章 - 
+## 電阻器的串聯與並聯
+* \missing{photo 1134}  
+same I  
+different V  
+find equivalent R
+* \missing{photo1135}  
+$$ V = I \cdot R\\
+V = V_1+ V_2$$
+  * $$ \begin{cases}
+V_1 = I \cdot R_1 \\
+V_2 = I \cdot R_2
+\end{cases} $$
+* $$ IR = I \cdot R_1 + I R_2\\
+R = R_1 + R_2 + \cdots$$
+* series resistance acts like parallel capacitors
+
+### 電阻的串聯
+* $$ \missing{photo 1138} $$  
+same V  
+different I
+* $$ I_1 = \frac{V}{R_1}\\
+I+2 = \frac{V}{R_2} $$
+* I = I_1+ I_2
+* 可以轉變為 $$ \missing{photo 1140} \\
+I = I_1 + I_2 \\
+I = \frac{V}{R} \\
+\frac{V}{R} = \frac{V}{R_1} + \frac{V}{R_2}\\
+\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} 
+$$
+
+#### 例題：$$ \missing{photo 1143} $$
+* 可以將圖簡化為： $$ \missing{photo 1144} \\
+\frac{1}{R} = \frac{1}{30} + \frac{1}{15}\\
+R = 10\Omega $$
+* 再繼續簡化為： $$ \missing{photo 1145} \\
+I = \frac{V}{R} = \frac{100}{20} = 5A
+$$
