@@ -129,6 +129,6 @@ $$
 * 可以將圖簡化為： $$ \missing{photo 1144} \\
 \frac{1}{R} = \frac{1}{30} + \frac{1}{15}\\
 R = 10\Omega $$
-* 再繼續簡化為： $$ \missing{photo 1145} \\
+* 再繼續簡化為： $$ \missing{photo 1147} \\
 I = \frac{V}{R} = \frac{100}{20} = 5A
 $$
