@@ -117,7 +117,7 @@ same V
 different I
 * $$ I_1 = \frac{V}{R_1}\\
 I+2 = \frac{V}{R_2} $$
-* I = I_1+ I_2
+* $$ I = I_1+ I_2 $$
 * 可以轉變為 $$ \missing{photo 1140} \\
 I = I_1 + I_2 \\
 I = \frac{V}{R} \\
