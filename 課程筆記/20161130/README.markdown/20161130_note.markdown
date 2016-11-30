@@ -70,3 +70,27 @@ $$
 * $$ P = \frac{work}{time} = \frac{Q}{t} V = I \cdot V $$
 * $$ P = IV $$ 或 $$ V = IR $$
 * $$ P = I^2R = \frac{V^2}{R} = IV $$
+
+### 範例：電燈泡規格為 $$ 100 W, 120V $$，問電阻與電流？
+* $$ P = IV\\
+I = \frac{P}{V} = \frac{100W}{120V} = 0.83A \\$$
+
+## 電池內電阻
+* 真的電池內有電阻
+* \missing{photo 1124}
+* 假設有電流 $$ I $$  
+* $$ V_r = Ir $$  
+r: internal battery resistance  
+R: load resistance
+* $$ V_R = IR $$
+* $$ \epsilon = V_r = V_R = I(r + R)\\
+I = \frac{\epsilon}{R + r} $$
+
+### 例題： $$ \epsilon = 10V $$、$$ r = 1\Omega $$、$$ R = 9 \Omega $$
+* \missing{photo1127}
+* $$ I = \frac{\epsilon}{R+r} = \frac{10V}{(1+9)\Omega} = 1A $$
+* $$V_r = I_r = 1 \cdot 1 = 1V$$
+* $$V_R = IR = 1 \cdot 9 = 9V$$
+* Power  
+$$ P_9 = I^2R = 1^2 \times 9 = 9 Watt\\
+P_1 \missing{recording 1129} $$
