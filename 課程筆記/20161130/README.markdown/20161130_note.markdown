@@ -94,3 +94,5 @@ I = \frac{\epsilon}{R + r} $$
 * Power  
 $$ P_9 = I^2R = 1^2 \times 9 = 9 Watt\\
 P_1 \missing{recording 1129} $$
+
+## 第 26 章 - 
