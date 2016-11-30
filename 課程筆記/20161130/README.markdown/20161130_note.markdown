@@ -65,6 +65,7 @@ $$
 * 固態金屬正粒子無法移動，故電流為由電子流移動組成
 * \missed{recorded 1102}
 
+## 功率
 * 功率：$$ {^{work}/_{time}} $$
 * $$ P = \frac{work}{time} = \frac{Q}{t} V = I \cdot V $$
 * $$ P = IV $$ 或 $$ V = IR $$
