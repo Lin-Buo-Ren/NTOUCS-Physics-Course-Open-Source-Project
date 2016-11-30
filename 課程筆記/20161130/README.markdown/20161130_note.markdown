@@ -1,2 +1,21 @@
 # 20161130 note
+## (missed) -  銅導線切面面積$$ =  3.31 \times 10^{-6} m^2 $$，內有電流$$ 10.0A $$，求其飄移速率？假設每一個銅原子提供一個墊子；銅密度為 $$ 8.95 {^g}/_{cm^3} $$
+(missed 0952)
 
+* $$ V = \frac{M}{\rho} = \frac{63.5 {^g}/{_{mole}}}{8.95 {^g}/{_{cm^3}}} = 7.09 10^{22} {^{cm^3}}/{_{mol}} $$
+* $$ n = \frac{10^6 cm^3}{1m^2} \times 6.02 \times (missed) $$
+* 在這邊飄移速度的大小為 $$ 2.23 \times 10^{-4} {^m}/{_s}$$ 公尺，每秒中走不到一公釐
+
+### 問題：為何外加電場電子的移動速度這麼慢的狀態下，我們開燈還會立刻亮？
+(missed recorded 1004)
+
+## 電阻 - 歐姆定律<br>Resistance - Ohm's Law
+### 定義
+對很多導體（歐姆物質(ohmic materials)）兩端，電流跟電壓呈正比
+
+* (missed, photoed 1008) R = VI
+
+### S.I. units of resistance
+$$
+\frac{Volt}{Amp} = Ohm
+$$
