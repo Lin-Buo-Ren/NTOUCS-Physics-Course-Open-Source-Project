@@ -1,2 +1,16 @@
 # 20161207 筆記
+## (missed ~1044)
 
+## Kirchoff's Current Law
+* (missed)
+* 
+* 過程
+  1. 假設電流方向並標示於電路上
+  2. 運用 Kirchoff's 原則
+* junction $$ I_1 = I_2 + I_3 $$
+* (picture 1046)
+* $$ 
+V_丁 - V_甲 = \Delta V_{甲丁}\\
+V_乙 - V_甲 = \Delta V_{乙甲} \\
+V_丙 - V_乙 = \Delta V_{丙乙} \\
+V_丁 - V_丙 = \Delta V_{丁丙} $$
