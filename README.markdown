@@ -2,7 +2,8 @@
 <https://www.gitbook.com/book/lin-buo-ren/ntoucs-physics-course-open-source-project>
 
 ## 本作品的智慧財產授權條款
-Creative Commons CC BY-SA 4.0+, contents from textbook are declared *fairuse* otherwise.
+* Content that are directly derived by this project are licensed under the Creative Commons CC BY-SA license, either 4.0 version or any later version you like
+* Contents that are not derived by this project are NOT LICENSED and instead explicitly used in this project under the Fair Use priciple
 
 ## 如何對本專案做出貢獻<br>How to Contribute to This Project
 ### 回報問題與改善建議<br>Report Issues and Improvement Suggestions
