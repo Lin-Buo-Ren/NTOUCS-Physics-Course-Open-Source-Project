@@ -1,7 +1,7 @@
 # Git 版本追蹤忽略規則
 # 說明文件：gitignore(5) manpage 使用手冊
 ## 忽略 GitBook 建構目錄
-_book/
+/_book/
 
 ## 忽略 GitBook 外掛程式
-node_modules/
+/node_modules/
