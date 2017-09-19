@@ -1,0 +1,29 @@
+# Git Path Attributes Configuration File
+# Documentation: gitattributes(5) manpage
+# Due to GitBook not supporting Git Large File Storage for now(GitbookIO/gitbook Issue #1201, only the binary files that can't be exploited in GitBook will be tracked by Git LFS
+
+## Portable Document Format Files
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.PDF filter=lfs diff=lfs merge=lfs -text
+
+## Open Document Format Docuents
+*.odt filter=lfs diff=lfs merge=lfs -text
+*.ODT filter=lfs diff=lfs merge=lfs -text
+*.odp filter=lfs diff=lfs merge=lfs -text
+*.ODP filter=lfs diff=lfs merge=lfs -text
+*.ods filter=lfs diff=lfs merge=lfs -text
+*.ODS filter=lfs diff=lfs merge=lfs -text
+
+## Microsoft Office Documents
+*.doc filter=lfs diff=lfs merge=lfs -text
+*.DOC filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.DOCX filter=lfs diff=lfs merge=lfs -text
+*.ppt filter=lfs diff=lfs merge=lfs -text
+*.PPT filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.PPTX filter=lfs diff=lfs merge=lfs -text
+*.xls filter=lfs diff=lfs merge=lfs -text
+*.XLS filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.XLSX filter=lfs diff=lfs merge=lfs -text
