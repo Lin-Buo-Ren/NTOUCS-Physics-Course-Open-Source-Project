@@ -114,4 +114,57 @@ A_y = A\sin{\theta} \\
 ![照片](IMG_20170920_104628.jpg)
 
 ## 三大運動：平移、轉動、振動<br>Translation, Rotation and Vibration
+* 位置<br>position
+	* 目標物在軸上對原點而言的位置
+* 位移<br>displacement
+	* 位置的變化量（向量）
+* 平均速率<br>average speed
+	* \( ^{總路徑} / _{時間} \)
+* 平均速度<br>average velocity
+	* \( ^{位移} / _{時間} \)
+	* \( V = \frac{\Delta{x}}{\Delta{t}} \)
+* 瞬時速率<br>instantaneous speed
+	* \( 時間 \to 0 \)
+* 瞬時速度<br>instantaneous velocity
+	* \( 時間 \to 0 \)
+* 平均加速度<br>average acceleration
+	* \( \frac{速度的變化量}{時間} \)
+* 瞬時加速度<br>instantaneous acceleration
+	* (missed)
 
+* 一般而言沒強調平均或瞬時之單位者均為*瞬時*
+
+### 例題：假設一直線由濱海校門至電機一館大門為 100 公尺，小明由校門進來走至電機一館又走回校門需費時 20 秒，其平均速度與平均速率為何？
+* \( 平均速度 = 0 ^{m}/_{s} \)
+* \( 平均速率 = \frac{100 m \times 2}{20 s} = 10 ^{m}/_{s} \)
+
+### 位移、速度、加速度的微積分關係
+![照片](IMG_20170920_110447.jpg)
+
+#### 微積分概論
+* 除現在會用到外，後面電磁學也會用到
+
+* \( V = {lim}_{\Delta t \to 0 } \frac{\Delta x}{\Delta t} = \frac{dx}{dt} \)
+
+* 若 \( x = At^n \)、A和n 是常數；\( A \) 對 \(t\)的導函數 \( \frac{dx}{dt} = nAt^{n-1} \)
+* \(x = 8t^3\\
+^{dx}/_{dt} = 8(3) t^{3-1} = 24t^2 \)
+* \( x = 8t^3 + 2t + 1\\
+^{dx}/_{dt} = 8(3) t^2 (missed) \)
+
+* 質點在不同時間的位置：
+
+| 名稱 |  t  |  x  |
+| :-: | :-: | :-: |
+|  A  |  0  |  30  |
+|  B  |  10 | 52  |
+| C  | ?  | 38  |
+|  D  |  30  |  0  |
+|  E  |  40  | -37 |
+|  F  | 50  |  -53 |
+
+* 位置對時間曲線圖(curvature)：
+
+* 速度對時間曲線圖(missed)
+
+![照片](IMG_20170920_112034.jpg)
