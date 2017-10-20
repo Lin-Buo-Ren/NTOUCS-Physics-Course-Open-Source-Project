@@ -71,8 +71,7 @@ src. 資工系為何要學物理.pptx
 #### 參考資料
 * [SI base unit - Wikipedia](https://en.wikipedia.org/wiki/SI_base_unit)
 
-### 量度(?)前綴<br>Metro Prefixes
-
+### 度量單位前綴<br>Metro (Unit) Prefixes
 | 等級 | 前綴 | 等級 | 前綴 | 
 | :--: | :--: | :--: | :--: |
 | $$ 10^{-15} $$ | fento- | $$ 10^3 $$ | kilo- |
@@ -82,6 +81,13 @@ src. 資工系為何要學物理.pptx
 | $$ 10^{-3} $$ | milli- | $$ 10^{15} $$ | peta- |
 | $$ 10^{-2} $$ | centi- | $$ 10^{18} $$ | exa- |
 
+#### 實務上的量級範例
 * 細胞大小：$$ 1 \times 10^{-5} m $$
 * 氫原子直徑：$$ 1 \times 10^{-10} m $$
 * 地球：$$ 6 \times 10^{24} kg $$
+
+#### 參考資料<br>Reference
+* [Metric prefix - Wikipedia](https://en.wikipedia.org/wiki/Metric_prefix)  <br>
+  A metric prefix is a unit prefix that precedes a basic unit of measure to indicate a multiple or fraction of the unit.
+* [Unit prefix - Wikipedia](https://en.wikipedia.org/wiki/Unit_prefix)  
+A unit prefix is a specifier or mnemonic that is prepended to units of measurement to indicate multiples or fractions of the units.
