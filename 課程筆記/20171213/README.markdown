@@ -22,6 +22,9 @@
 ### 尋找 $$ \overrightarrow{B} $$ 在長直導線上電流 $$ I $$
 ![image1000]()
 
+* $$ d B = \frac{\mu_0}{4\pi}I\frac{d\overrightarrow{s} \times \hat{r}}{} $$
+* $$ d \overrightarrow{S} \times \hat{r} = \hat{i} dx x \hat{r} = dx \sin \theta \hat{out} $$
+
 ## Misc.
 ### Hall Effect
 {%youtube wpAA3qeOYiI %}
