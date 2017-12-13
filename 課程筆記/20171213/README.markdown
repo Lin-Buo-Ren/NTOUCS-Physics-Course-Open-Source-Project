@@ -41,6 +41,7 @@ $$ B = \frac{\mu_0}{4\pi}\frac{I}{a}(\cos 0 - \cos \pi) = \frac{\mu_0}{4\pi} \fr
 
 ![image1037](image1037.png)
 
+* current $$ I $$ 流出紙面
 
 ## Misc.
 ### Hall Effect
