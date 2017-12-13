@@ -43,6 +43,21 @@ $$ B = \frac{\mu_0}{4\pi}\frac{I}{a}(\cos 0 - \cos \pi) = \frac{\mu_0}{4\pi} \fr
 
 * current $$ I $$ 流出紙面
 
+### 例：尋找 $$ B $$ 長直導線有 $$ 1 A $$，離這導線有 1 公尺的距離
+![image1047](image1047.png)
+
+* (misses)
+
+### 電流圓線圈引起的 $$ \overrightarrow{B} $$
+![image1050](image1050.png)
+
+* $$ \begin{align*}
+dB = \frac{\mu_0}{4\pi} I \frac{d\overrightarrow{s} \times \hat{r}}{r^2} \\
+&= \frac{\mu_0}{I}
+\end{align*} $$
+
+
+
 ## Misc.
 ### Hall Effect
 {%youtube wpAA3qeOYiI %}
