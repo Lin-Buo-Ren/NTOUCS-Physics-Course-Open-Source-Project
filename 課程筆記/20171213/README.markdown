@@ -24,6 +24,12 @@
 
 * $$ d B = \frac{\mu_0}{4\pi}I\frac{d\overrightarrow{s} \times \hat{r}}{} $$
 * $$ d \overrightarrow{S} \times \hat{r} = \hat{i} dx x \hat{r} = dx \sin \theta \hat{out} $$
+* （依賴內積、外積公式）
+* $$ \begin{case}
+r = a \cos \theta \\
+x = -a \cot \theta
+\end{case} \to dx = +a \csc^2 \theta d \theta $$
+
 
 ## Misc.
 ### Hall Effect
