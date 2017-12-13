@@ -55,6 +55,16 @@ $$ B = \frac{\mu_0}{4\pi}\frac{I}{a}(\cos 0 - \cos \pi) = \frac{\mu_0}{4\pi} \fr
 dB = \frac{\mu_0}{4\pi} I \frac{d\overrightarrow{s} \times \hat{r}}{r^2} \\
 &= \frac{\mu_0}{I}
 \end{align*} $$
+* $$ \begin{align*}
+B &= \frac{\mu_0}{4\pi} \frac{I}{a} \int ds\\
+&= \frac{\mu_0}{4\pi} \frac{I_0}{a^2} 2\pi a $$  
+$$ B 在中心點 = \frac{\mu_0 I}{2a} $$
+
+* 一般而言，$$ B $$ 在軸心上（ $$ x $$ = 與圓環中心的距離）  
+  $$ B = \frac{\mu_0}{2} \frac{Ia^2}{(x^2 + a^2)^{\frac{1}{2}} $$
+ 
+### 兩平行電流之間的力
+![image1101](image1101.png)
 
 ## Misc.
 ### Hall Effect
