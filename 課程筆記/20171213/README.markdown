@@ -21,3 +21,7 @@
 
 ### 尋找 $$ \overrightarrow{B} $$ 在長直導線上電流 $$ I $$
 ![image1000]()
+
+## Misc.
+### Hall Effect
+{%youtube wpAA3qeOYiI %}
