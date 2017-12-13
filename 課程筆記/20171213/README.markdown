@@ -29,6 +29,17 @@
 r = a \cos \theta \\
 x = -a \cot \theta
 \end{case} \to dx = +a \csc^2 \theta d \theta $$
+* $$ dB = \frac{\mu_0 I}{4\pi} + \frac{a \csc^2\theta \sin \theta d \theta}{a^2 \csc^2 \theta} $$
+* $$ B = \frac{\mu_0 I}{4\pi} \frac{\sin\theta d \theta}{a} $$
+* $$ B = \frac{\mu_0 I}{4\pi} \frac{1}{a} \int^{\theta_2}{\theta_1} = \frac{\mu_0 I}{4\pia} (-\cos \theta) \int^{\theta_2}_{\theta_1} \\
+\frac{\mu_0 I}{4\pi a} (\cos \theta_1 - \cos \theta_2)\\
+B = \frac{\mu_0}{4 \pi}\frac{I}{a} (\cos \theta_1 - \cos \theta_2)  $$
+* 一條相當長的導線（$$ \infnt $$ ) $$ \theta_1 \to 0 $$、 $$ \theta_2 \to \pi $$  
+$$ B = \frac{\mu_0}{4\pi}\frac{I}{a}(\cos 0 - \cos \pi) = \frac{\mu_0}{4\pi} \frac{I}{a} \times 2 = \frac{\mu_0}{2\pi}\frac{I}{a} $$
+* $$ B = \frac{\mu_0}{2\pi}\frac{I}{a} $$
+* 注意：長直導線的磁場線呈現以導線為中心的同心圓
+
+![image1037](image1037.png)
 
 
 ## Misc.
