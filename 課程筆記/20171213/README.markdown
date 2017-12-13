@@ -56,8 +56,6 @@ dB = \frac{\mu_0}{4\pi} I \frac{d\overrightarrow{s} \times \hat{r}}{r^2} \\
 &= \frac{\mu_0}{I}
 \end{align*} $$
 
-
-
 ## Misc.
 ### Hall Effect
 {%youtube wpAA3qeOYiI %}
